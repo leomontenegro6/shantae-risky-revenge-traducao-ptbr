@@ -56,7 +56,7 @@ Revisão: 100%
 
 # Imagens
 
-![alt text](screnshots/1.jpg "Imagem 1") ![alt text](screnshots/2.jpg "Imagem 2")
-![alt text](screnshots/3.jpg "Imagem 3") ![alt text](screnshots/4.jpg "Imagem 4")
-![alt text](screnshots/5.jpg "Imagem 5") ![alt text](screnshots/6.jpg "Imagem 6")
+![alt text](/screnshots/1.jpg "Imagem 1") ![alt text](/screnshots/2.jpg "Imagem 2")
+![alt text](/screnshots/3.jpg "Imagem 3") ![alt text](/screnshots/4.jpg "Imagem 4")
+![alt text](/screnshots/5.jpg "Imagem 5") ![alt text](/screnshots/6.jpg "Imagem 6")
 
