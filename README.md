@@ -60,3 +60,13 @@ Revisão: 100%
 ![alt text](https://raw.githubusercontent.com/leomontenegro6/shantae-risky-revenge-traducao-ptbr/main/screenshots/3.jpg "Imagem 3") ![alt text](https://raw.githubusercontent.com/leomontenegro6/shantae-risky-revenge-traducao-ptbr/main/screenshots/4.jpg "Imagem 4")
 ![alt text](https://raw.githubusercontent.com/leomontenegro6/shantae-risky-revenge-traducao-ptbr/main/screenshots/5.jpg "Imagem 5") ![alt text](https://raw.githubusercontent.com/leomontenegro6/shantae-risky-revenge-traducao-ptbr/main/screenshots/6.jpg "Imagem 6")
 
+# Patches
+
+Conforme já mencionado acima, até o momento o jogo só roda decentemente em hardware real, seja DSi desbloqueado com Twilight Menu, seja 3DS desbloqueado. Para usuários de DSi, vocês precisarão ter a rom do jogo em formato .nds, para poder executá-la diretamente via Twilight Menu + nds-bootstrap. Para usuários de 3DS, vocês precisarão ter a rom do jogo em formato .cia, para poder instalá-la no portátil através do [homebrew FBI](https://github.com/Steveice10/FBI).
+
+Sendo esse o caso, estou disponibilizando dois patches possíveis, para download. Estão em formato Xdelta 3, e vocês podem aplicá-los através de programas como [Xdelta UI](http://www.romhackers.org/modules/PDdownloads2/singlefile.php?cid=8&lid=181) ou similares. Vocês precisarão aplicar o patch na rom no formato de sua preferência, e em seguida tentar rodá-la no portátil. Segue abaixo as informações para as roms utilizadas como base:
+
+Formato .nds: crc32 **d479b709** e md5sum **ef14ed36436ff95197fdff8c6e9a61f2** (Arquivo [DSi.Shantae.Risky.Revenge.E.1.0.xdelta](https://github.com/leomontenegro6/shantae-risky-revenge-traducao-ptbr/releases/download/v1.0/DSi.Shantae.Risky.Revenge.E.1.0.xdelta))
+Formato .cia: crc32 **1feb20f6** e md5sum **afb041bb96473d7c6aca04e55d6b02fc** (Arquivo [3DS.Shantae.Risky.Revenge.E.1.0.xdelta](https://github.com/leomontenegro6/shantae-risky-revenge-traducao-ptbr/releases/download/v1.0/3DS.Shantae.Risky.Revenge.E.1.0.xdelta))
+
+[*Download*](https://github.com/leomontenegro6/shantae-risky-revenge-traducao-ptbr/releases)
