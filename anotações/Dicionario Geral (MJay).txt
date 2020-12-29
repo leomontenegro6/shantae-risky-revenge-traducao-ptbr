@@ -1,0 +1,59 @@
+Personagens:
+
+Abner & Poe Cadaver = Abel & Pedro Cadáver
+Ammo Baron = Zé Arma
+Holly Lingerbean = Holly Tropeira
+Hypno Baron = Zé Mente
+Mayor Scuttlebutt = Prefeito Mexerico
+Risky Boots = Bota Negra
+Rottytops = Delamorta
+Sky = Celina
+Squid Baron = Zé Lula
+Techno Baron = Zé Bugiganga
+Twitch & Vinegar = Tique & Vinagre
+Uncle Mimic = Tio Mímico
+Wrench = Chaves
+
+Locais
+
+Scuttle Town = Mexericapolis
+Sequin Land = Lantejoulândia
+
+Inimigos:
+
+Tinkerbat = Tinkercego
+
+Termos:
+
+Dark Magic = Magia negra
+Light Magic = Magia da luz
+
+Chefes:
+
+Tinkerbrain = Tinkernamo
+Tinkerslug = Tinkeracol
+Wilbur = Memor
+
+Itens:
+
+Gems = Jóias
+
+Itens - Bota Negra
+
+Ammo Strap = Cinto de munição
+Cannon Jump = Canhão de pulo
+Corndog = Espeto de salsicha
+Genie Crystal = Cristal gênio
+Health = Saúde
+Juicy Melon = Melão suculento
+Pirate Flare = Sinalizador pirata
+Pirate hat = Chapéu pirata
+Pistol Damage = Dano da pistola
+Pistol Speed = Velocidade da pistola
+Rancid Jam = Geléia mágica
+Risky Boots Boots = Botas da Bota Negra
+Scimitar = Cimitarra
+Seeker = Guiada
+Spread = Espalhadora
+Tentacle = Tentáculo
+Tuna Roll = Rolo de atum

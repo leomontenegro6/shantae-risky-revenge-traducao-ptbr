@@ -1,0 +1,17719 @@
+
+2
+
+
+2
+1
+
+2
+2
+
+2
+
+
+
+1
+2
+2
+
+
+2
+2
+2
+
+
+0
+
+2
+
+2
+2
+2
+1
+2
+1
+
+
+
+2
+1
+
+1
+2
+2
+
+2
+2
+
+2
+
+2
+
+
+
+2
+2
+1
+
+1
+2
+1
+
+1
+2
+
+
+2
+
+2
+
+
+
+1
+0
+0
+
+
+2
+2
+2
+
+1
+
+
+
+2
+2
+
+1
+1
+0
+1
+2
+2
+1
+
+
+2
+
+2
+2
+
+
+
+2
+
+
+
+1
+2
+
+2
+1
+
+
+1
+
+0
+2
+
+
+
+
+
+2
+0
+2
+1
+2
+
+
+
+
+2
+2
+2
+1
+2
+0
+2
+
+
+2
+2
+
+
+2
+2
+2
+2
+
+1
+
+2
+2
+
+2
+2
+2
+0
+1
+2
+2
+2
+2
+1
+
+2
+2
+1
+2
+1
+
+1
+1
+
+2
+
+
+2
+2
+2
+2
+
+2
+1
+
+1
+2
+
+0
+
+
+2
+2
+1
+1
+
+2
+2
+2
+1
+2
+2
+2
+
+
+
+2
+
+2
+
+
+
+
+
+2
+
+1
+
+2
+2
+2
+
+
+
+2
+
+1
+1
+0
+
+2
+
+1
+
+
+
+
+2
+2
+
+2
+1
+
+
+
+
+2
+
+2
+
+2
+2
+
+2
+2
+
+
+
+2
+
+2
+
+0
+
+
+2
+
+
+
+
+
+
+
+2
+1
+2
+1
+2
+2
+2
+
+
+
+2
+2
+
+
+2
+2
+2
+1
+
+1
+
+2
+
+
+
+1
+
+
+2
+
+1
+1
+
+1
+2
+1
+2
+2
+1
+2
+2
+2
+2
+
+0
+2
+2
+
+1
+1
+1
+
+
+2
+2
+
+2
+0
+
+2
+
+2
+2
+2
+2
+
+1
+
+
+2
+
+2
+2
+
+2
+2
+2
+0
+
+2
+2
+1
+0
+
+1
+
+1
+1
+2
+
+2
+2
+
+
+
+
+
+2
+
+2
+2
+1
+2
+2
+1
+1
+2
+
+1
+2
+1
+2
+
+1
+0
+1
+
+2
+2
+
+2
+
+
+
+2
+
+
+0
+
+2
+
+1
+2
+
+
+
+
+
+
+
+1
+
+2
+2
+2
+1
+1
+1
+
+
+1
+
+2
+
+
+1
+
+1
+
+
+
+
+
+0
+
+
+1
+2
+
+
+2
+1
+
+
+
+
+
+2
+2
+2
+2
+2
+2
+0
+2
+
+2
+2
+2
+2
+2
+2
+
+2
+
+2
+
+
+2
+2
+2
+2
+2
+1
+1
+1
+
+
+
+
+2
+
+
+1
+
+
+2
+
+2
+2
+
+1
+2
+2
+2
+1
+2
+2
+
+2
+2
+2
+
+2
+
+2
+
+
+
+1
+1
+1
+2
+2
+
+
+
+
+
+
+
+
+1
+
+2
+
+2
+
+2
+2
+
+1
+2
+
+
+2
+2
+2
+0
+2
+2
+2
+1
+
+1
+2
+2
+1
+2
+2
+2
+2
+
+
+2
+
+2
+
+2
+2
+2
+
+
+2
+0
+
+
+
+2
+2
+
+0
+1
+2
+2
+
+1
+2
+2
+1
+
+1
+1
+
+
+2
+2
+
+
+
+2
+2
+
+
+
+2
+2
+
+
+
+1
+
+
+2
+2
+2
+
+2
+2
+2
+
+2
+
+2
+1
+2
+1
+2
+
+2
+2
+2
+2
+2
+2
+
+
+1
+1
+
+
+0
+0
+1
+2
+
+2
+
+
+
+
+
+1
+2
+2
+
+
+
+
+2
+
+2
+2
+
+
+2
+
+1
+0
+
+0
+
+
+
+2
+
+1
+
+0
+
+2
+
+2
+2
+2
+2
+
+2
+2
+
+2
+2
+2
+1
+
+2
+2
+2
+
+
+
+2
+
+2
+2
+2
+
+2
+
+
+
+2
+2
+2
+1
+1
+
+2
+0
+
+
+
+2
+
+
+
+2
+1
+0
+
+1
+2
+1
+2
+2
+
+2
+0
+2
+2
+2
+
+
+1
+1
+2
+2
+2
+2
+
+
+2
+
+2
+
+2
+2
+2
+1
+
+
+
+1
+1
+
+
+
+
+
+
+2
+2
+
+
+2
+1
+
+2
+
+0
+
+2
+2
+
+2
+1
+2
+
+
+
+2
+
+2
+
+
+
+2
+1
+
+2
+
+0
+
+
+
+2
+1
+
+
+1
+2
+
+
+
+
+2
+2
+2
+0
+0
+2
+
+
+
+
+1
+2
+2
+0
+
+2
+2
+
+
+2
+
+
+2
+1
+
+2
+1
+
+
+
+
+0
+
+
+1
+2
+
+1
+2
+1
+
+1
+
+0
+2
+
+
+
+2
+
+
+
+1
+1
+1
+2
+
+2
+1
+1
+2
+
+2
+2
+2
+1
+
+1
+
+2
+2
+
+
+
+
+
+
+2
+2
+
+
+
+2
+2
+
+
+2
+1
+2
+2
+2
+
+1
+0
+1
+
+2
+
+2
+
+1
+2
+2
+2
+
+1
+
+0
+
+2
+
+
+
+
+
+2
+
+2
+
+2
+
+
+2
+
+2
+1
+
+2
+2
+
+2
+1
+
+2
+2
+
+2
+1
+
+2
+
+
+1
+
+2
+1
+
+
+
+
+2
+
+
+2
+2
+1
+
+
+2
+2
+
+2
+
+1
+
+2
+2
+2
+
+2
+2
+2
+1
+2
+2
+2
+2
+2
+2
+
+
+
+
+2
+1
+
+1
+2
+
+2
+
+
+
+1
+1
+
+2
+2
+1
+
+
+2
+2
+0
+
+1
+
+1
+2
+
+1
+
+2
+2
+2
+2
+2
+
+
+2
+2
+2
+1
+2
+
+
+1
+2
+0
+
+
+2
+
+2
+2
+2
+2
+2
+2
+
+
+1
+2
+2
+
+1
+2
+0
+
+
+1
+2
+2
+
+
+2
+2
+1
+2
+2
+1
+2
+
+2
+
+2
+2
+0
+1
+
+
+
+1
+2
+
+
+
+2
+2
+2
+
+
+1
+1
+2
+2
+2
+1
+
+2
+1
+2
+1
+
+2
+1
+
+
+
+
+2
+
+
+1
+
+2
+2
+1
+2
+
+
+2
+2
+
+
+0
+2
+1
+
+2
+
+1
+
+1
+1
+
+2
+2
+2
+
+
+
+
+2
+0
+
+
+2
+1
+
+
+
+1
+2
+2
+0
+
+
+2
+2
+2
+2
+
+2
+1
+2
+
+
+
+
+1
+
+
+1
+2
+2
+
+2
+2
+
+
+
+1
+
+
+1
+0
+
+
+
+
+
+
+1
+
+0
+2
+
+
+
+
+1
+2
+1
+2
+
+0
+1
+
+
+
+2
+0
+2
+2
+2
+
+
+2
+
+2
+
+
+
+
+
+
+
+2
+0
+
+
+
+2
+
+
+
+2
+1
+
+1
+
+1
+2
+0
+
+2
+2
+2
+2
+
+
+
+2
+
+2
+2
+1
+2
+2
+2
+
+
+
+2
+2
+2
+2
+0
+
+2
+
+2
+0
+
+1
+
+2
+2
+
+
+2
+
+2
+1
+
+
+
+2
+2
+1
+2
+
+2
+2
+2
+
+
+1
+2
+
+2
+
+2
+
+
+
+2
+
+2
+
+2
+1
+2
+
+
+2
+
+
+2
+
+
+2
+
+
+
+2
+2
+2
+0
+2
+2
+
+
+
+
+2
+
+
+
+
+
+0
+1
+2
+
+2
+
+2
+2
+0
+
+2
+1
+2
+1
+
+1
+2
+2
+
+1
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New Game
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+crash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ok, let me know when you're ready.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hey, come back!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skeleton Was Phone?!?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You should not see this.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I'll show you a test!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do you like this test?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in Italian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ok, I'm out.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HI I'm Ms Chef!<lf> It looks like you have the ingredients for a TASTY MEAL!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+clang!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Are you ready for another?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here's your TASTY MEAL!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hm...
+
+
+
+
+
+
+
+
+
+
+
+
+Would you like me to create a TASTY MEAL for you?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shantae humorless
+
+
+
+
+
+
+
+
+shantae normal
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+shantae normal
+
+shantae humorless
+
+
+
+
+shantae normal
+
+shantae normal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shantae normal
+
+shantae normal
+
+shantae normal
+
+shantae stern
+
+
+
+
+
+
+
+
+
+shantae normal
+shantae normal
+0
+
+
+
+
+
+
+shantae normal
+
+
+
+
+
+
+shantae normal
+shantae normal
+0
+shantae normal
+
+
+shantae normal
+
+
+
+
+
+
+
+
+
+
+
+
+
+shantae humorless
+
+
+
+shantae normal
+
+
+shantae stern
+
+0
+
+
+
+
+
+
+
+0
+
+shantae normal
+
+
+
+
+
+
+
+
+shantae normal
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+shantae normal
+
+
+
+
+
+
+
+0
+shantae humorless
+
+
+
+
+shantae normal
+
+
+
+shantae normal
+
+shantae normal
+
+shantae normal
+shantae normal
+
+
+
+
+
+
+0
+
+
+
+shantae normal
+
+shantae normal
+
+
+0
+
+
+
+
+shantae normal
+shantae normal
+
+
+
+
+shantae normal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shantae normal
+
+
+
+
+
+
+
+
+
+shantae normal
+shantae normal
+0
+
+
+
+shantae normal
+
+
+
+
+
+
+
+
+shantae stern
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+shantae normal
+
+shantae normal
+
+
+
+
+
+
+
+
+
+
+
+
+
+shantae stern
+
+shantae normal
+
+
+
+
+
+shantae humorless
+
+
+
+
+shantae stern
+shantae normal
+
+shantae humorless
+
+shantae humorless
+
+
+shantae humorless
+
+
+
+
+
+0
+
+
+
+shantae stern
+shantae humorless
+shantae stern
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+shantae normal
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+shantae stern
+0
+
+shantae normal
+
+shantae normal
+shantae normal
+
+
+
+
+
+
+
+
+
+
+
+
+
+shantae humorless
+
+
+shantae normal
+shantae normal
+
+
+shantae normal
+
+shantae humorless
+
+
+shantae normal
+shantae normal
+shantae normal
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+shantae normal
+
+
+
+
+
+
+
+
+shantae normal
+
+
+
+
+shantae normal
+shantae humorless
+shantae normal
+
+
+shantae humorless
+
+
+
+
+shantae stern
+
+shantae humorless
+
+
+
+
+
+shantae normal
+
+
+shantae normal
+
+
+
+
+shantae humorless
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+shantae normal
+
+
+
+
+
+
+
+
+
+
+
+
+shantae normal
+shantae normal
+shantae normal
+
+
+
+
+
+
+
+shantae humorless
+
+
+
+
+
+
+
+shantae normal
+
+
+
+shantae normal
+
+
+
+
+
+
+
+
+
+
+
+
+
+shantae humorless
+shantae normal
+shantae humorless
+
+
+
+
+
+
+
+
+
+
+shantae stern
+
+
+
+
+
+
+
+
+shantae normal
+
+
+
+
+
+shantae normal
+0
+
+
+
+shantae normal
+
+shantae normal
+
+
+shantae stern
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+0
+shantae normal
+
+
+
+shantae humorless
+
+
+shantae normal
+
+shantae stern
+shantae normal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shantae normal
+
+
+
+
+
+
+
+
+
+
+
+
+
+shantae normal
+
+shantae normal
+
+
+
+
+
+
+
+
+
+
+shantae stern
+shantae normal
+
+
+shantae normal
+0
+shantae normal
+
+
+
+
+
+
+
+
+shantae humorless
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shantae normal
+shantae normal
+
+0
+
+
+
+
+
+shantae normal
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shantae humorless
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shantae normal
+shantae normal
+
+
+shantae normal
+
+
+
+
+
+
+
+
+shantae humorless
+0
+
+shantae stern
+
+shantae normal
+
+
+
+
+0
+
+
+
+
+
+shantae normal
+shantae humorless
+
+
+
+
+
+
+
+
+
+
+
+
+
+shantae stern
+
+
+
+shantae normal
+shantae stern
+
+
+
+
+
+
+
+
+
+
+
+shantae normal
+
+
+
+0
+
+
+
+
+
+shantae humorless
+
+
+
+
+
+
+
+
+
+
+
+shantae normal
+
+
+
+0
+
+
+
+
+shantae stern
+
+
+shantae happy
+
+
+
+
+
+
+
+
+0
+0
+0
+
+
+
+
+shantae normal
+
+
+0
+
+
+
+
+
+
+
+
+
+shantae normal
+
+
+shantae humorless
+
+
+
+
+0
+
+
+shantae normal
+
+
+shantae stern
+
+shantae humorless
+
+shantae humorless
+
+0
+
+
+
+
+
+
+
+
+shantae stern
+shantae humorless
+shantae humorless
+
+
+
+shantae stern
+shantae normal
+
+
+
+
+
+shantae normal
+
+shantae normal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shantae normal
+
+
+
+
+shantae normal
+0
+0
+
+
+
+
+
+shantae humorless
+
+
+
+
+shantae normal
+
+shantae normal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shantae stern
+
+
+
+
+
+shantae humorless
+
+
+
+
+
+shantae humorless
+
+
+
+
+shantae stern
+
+
+shantae humorless
+
+
+
+
+
+
+
+
+
+shantae stern
+
+
+
+
+
+
+
+shantae stern
+
+
+
+
+
+
+
+
+shantae normal
+
+
+
+
+
+
+
+
+
+
+
+shantae normal
+
+shantae normal
+
+
+
+
+
+
+shantae normal
+shantae normal
+
+
+
+shantae normal
+
+
+
+
+0
+
+shantae stern
+
+shantae normal
+
+
+shantae stern
+
+
+
+
+
+
+
+
+
+
+
+shantae normal
+
+
+
+shantae stern
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+shantae humorless
+
+
+
+shantae normal
+
+0
+
+
+shantae normal
+
+
+
+
+
+
+shantae stern
+
+
+shantae humorless
+
+
+
+
+
+
+0
+shantae normal
+
+
+
+shantae normal
+
+
+
+
+
+
+
+
+
+shantae humorless
+shantae stern
+
+
+
+shantae humorless
+
+
+shantae humorless
+
+shantae stern
+
+
+shantae humorless
+
+
+
+
+
+
+
+shantae normal
+
+
+
+shantae normal
+
+
+
+
+
+
+
+0
+
+shantae normal
+
+
+
+shantae humorless
+
+shantae humorless
+shantae normal
+
+
+
+
+
+
+
+
+
+shantae normal
+
+
+
+shantae humorless
+
+
+
+shantae normal
+
+
+0
+
+
+
+
+
+
+
+
+shantae humorless
+
+
+
+
+
+shantae normal
+
+
+shantae stern
+
+
+
+
+
+
+
+
+shantae normal
+
+
+shantae humorless
+0
+
+
+
+
+
+
+shantae normal
+
+shantae normal
+
+
+
+
+
+shantae normal
+
+shantae normal
+
+
+0
+shantae normal
+
+
+
+
+shantae normal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+shantae normal
+
+shantae normal
+
+shantae humorless
+
+0
+
+
+
+
+
+
+
+
+0
+
+
+
+shantae stern
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+0
+
+shantae humorless
+
+
+
+
+
+
+
+
+shantae stern
+
+
+
+
+
+shantae normal
+
+
+
+
+
+
+
+shantae humorless
+
+
+
+
+
+
+
+
+
+
+
+
+
+shantae normal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shantae normal
+
+
+
+
+
+
+
+
+
+
+
+
+0
+shantae humorless
+
+
+
+
+
+
+shantae normal
+
+
+shantae normal
+
+shantae humorless
+
+shantae normal
+
+
+
+shantae normal
+
+
+
+bolo normal
+Merchant
+
+mimic normal
+
+GuardC
+rotty happy
+AmmoBaron normal
+
+bolo normal
+
+Fisher
+
+
+rotty normal
+mayor normal
+
+
+AmmoBaron normal
+abner normal
+sky normal
+
+rotund
+0
+Boy
+rotty normal
+
+risky normal
+mayor normal
+abner normal
+
+risky smiling
+
+Guard
+
+
+risky smiling
+
+
+
+rotty normal
+joe normal
+
+risky smiling
+bolo normal
+
+SquidBaron angry
+
+risky smiling
+
+
+
+risky smiling
+AmmoBaron normal
+
+
+
+rotty normal
+
+
+
+mimic normal
+
+Stranger
+rotty normal
+
+risky normal
+
+
+Fisher
+
+0
+0
+
+
+mimic normal
+rotty happy
+rotty normal
+
+
+
+
+
+joe normal
+abner normal
+
+
+
+0
+
+poe normal
+HypnoBaron normal
+
+GuardD
+
+risky smiling
+Fisher
+risky smiling
+mayor normal
+
+
+
+AmmoBaron normal
+
+
+
+
+bolo normal
+
+risky smiling
+
+
+
+
+
+0
+rotty happy
+
+
+
+
+
+rotty normal
+0
+mimic normal
+
+risky smiling
+
+
+
+
+AmmoBaron normal
+sky normal
+joe normal
+
+AmmoBaron normal
+0
+abner normal
+
+
+risky smiling
+mimic normal
+
+
+mayor normal
+risky smiling
+risky normal
+AmmoBaron normal
+
+
+Fisher
+abner normal
+mimic normal
+
+joe normal
+joe normal
+abner normal
+0
+
+mayor normal
+sky normal
+SquidBaron happy
+mimic normal
+
+
+SquidBaron happy
+mayor normal
+
+mimic normal
+
+
+
+
+
+joe normal
+
+
+abner normal
+risky smiling
+risky angry
+mayor normal
+
+mayor normal
+
+
+
+risky normal
+
+0
+
+Girl
+mimic normal
+mimic normal
+
+risky normal
+
+sky normal
+joe normal
+bolo normal
+
+AmmoBaron normal
+poe normal
+sky normal
+
+
+
+sky normal
+
+rotty happy
+
+JugLady
+Fisher
+
+
+mimic normal
+
+
+
+sky normal
+
+risky smiling
+
+
+
+risky smiling
+
+
+
+0
+
+sky normal
+
+
+
+
+
+
+rotty happy
+joe normal
+rotund
+poe normal
+
+
+
+
+
+risky normal
+
+joe normal
+
+risky smiling
+rotty happy
+
+sky normal
+SquidBaron happy
+
+
+Fisher
+rotty happy
+
+sky normal
+
+0
+
+
+abner normal
+
+
+
+
+
+
+
+rotty happy
+
+poe normal
+
+sky normal
+abner normal
+risky normal
+
+
+
+risky smiling
+SquidBaron happy
+Bather
+Fisher
+sky normal
+mimic normal
+bolo normal
+
+
+
+
+AmmoBaron normal
+
+
+
+
+
+
+AmmoBaron normal
+
+
+
+Girl
+
+risky smiling
+
+abner normal
+mayor normal
+
+sky normal
+mimic normal
+mimic normal
+rotty happy
+
+0
+risky smiling
+rotty normal
+
+
+
+
+
+
+AmmoBaron normal
+bolo normal
+
+risky smiling
+0
+
+joe normal
+Bather
+mimic normal
+rotty normal
+bolo normal
+mayor normal
+Fisher
+
+Bather
+
+risky smiling
+
+abner normal
+rotty normal
+
+mayor normal
+sky normal
+risky smiling
+0
+
+rotty happy
+poe normal
+
+0
+
+
+
+0
+
+mimic normal
+
+mayor normal
+sky normal
+
+
+Crowd
+JugLady
+Guard
+abner normal
+
+risky normal
+sky normal
+
+joe normal
+abner normal
+
+
+risky smiling
+
+
+mayor normal
+
+rotty normal
+Chef
+
+0
+
+Fisher
+joe normal
+poe normal
+
+risky normal
+
+
+
+risky smiling
+
+
+0
+
+risky smiling
+Girl
+
+SquidBaron happy
+
+
+
+
+
+
+
+0
+
+sky normal
+mayor normal
+HypnoBaron normal
+
+
+
+
+
+
+
+AmmoBaron normal
+
+
+
+
+
+
+
+
+
+Fisher
+0
+
+
+
+risky smiling
+
+Boy
+mimic normal
+
+
+
+
+
+
+rotty happy
+bolo normal
+bolo normal
+sky normal
+sky normal
+HypnoBaron normal
+0
+mayor normal
+
+risky smiling
+joe normal
+abner normal
+poe normal
+risky normal
+risky smiling
+
+AmmoBaron normal
+
+SquidBaron happy
+
+
+AmmoBaron normal
+sky normal
+sky normal
+risky smiling
+sky normal
+
+
+
+rotund
+Fisher
+
+
+bolo normal
+
+JugLady
+
+
+
+rotty happy
+Merchant
+mimic normal
+mimic normal
+Dancer
+
+SquidBaron angry
+mayor normal
+sky normal
+
+mayor normal
+mimic normal
+
+AmmoBaron normal
+bolo normal
+risky smiling
+
+mayor normal
+Fisher
+joe normal
+
+
+
+
+
+
+joe normal
+rotty normal
+
+
+Fisher
+GuardD
+
+Fisher
+sky normal
+
+
+
+risky smiling
+
+mimic normal
+
+AmmoBaron normal
+rotty normal
+Fisher
+
+risky normal
+
+Dancer
+AmmoBaron normal
+joe normal
+risky normal
+0
+mimic normal
+risky normal
+sky normal
+
+
+
+tinkerbats
+joe normal
+
+SquidBaron happy
+bolo normal
+sky normal
+rotty happy
+
+
+sky normal
+
+AmmoBaron normal
+
+SquidBaron happy
+AmmoBaron normal
+rotty normal
+
+Voice
+SquidBaron happy
+0
+
+
+
+sky normal
+SquidBaron happy
+Boy
+0
+
+bolo normal
+risky smiling
+
+
+SquidBaron angry
+sky normal
+
+
+
+
+
+
+HypnoBaron normal
+rotty happy
+
+
+Fisher
+sky normal
+AmmoBaron normal
+Fisher
+
+
+joe normal
+abner normal
+
+
+
+
+
+
+mimic normal
+sky normal
+risky normal
+
+AmmoBaron normal
+HypnoBaron normal
+rotty normal
+
+HypnoBaron normal
+
+abner normal
+
+poe normal
+
+bolo normal
+
+SquidBaron happy
+risky smiling
+risky smiling
+joe normal
+mimic normal
+bolo normal
+
+GuardD
+
+
+
+
+0
+0
+
+SquidBaron happy
+
+sky normal
+
+
+
+Stranger
+
+
+mimic normal
+abner normal
+
+
+
+
+mayor normal
+
+sky normal
+SquidBaron angry
+
+
+mimic normal
+
+
+0
+
+0
+
+Dancer
+
+risky smiling
+
+
+
+0
+
+sky normal
+
+SquidBaron happy
+SquidBaron happy
+mimic normal
+joe normal
+
+poe normal
+risky smiling
+
+risky smiling
+mayor normal
+joe normal
+
+Ammo Guy 3
+risky normal
+sky normal
+mimic normal
+
+
+GuardD
+AmmoBaron normal
+Crowd
+mimic normal
+AmmoBaron normal
+sky normal
+
+rotty normal
+
+
+Fisher
+mimic normal
+SquidBaron happy
+sky normal
+
+
+
+mimic normal
+0
+
+Chef
+
+risky smiling
+Guard
+
+Dancer
+sky normal
+
+0
+Boy
+
+SquidBaron angry
+
+risky normal
+mimic normal
+GuardA
+SquidBaron happy
+0
+joe normal
+HypnoBaron normal
+sky normal
+
+
+
+
+AmmoBaron normal
+poe normal
+abner normal
+abner normal
+
+
+sky normal
+
+AmmoBaron normal
+
+joe normal
+risky smiling
+risky smiling
+
+
+
+
+
+
+
+
+
+
+
+Crowd
+SquidBaron happy
+joe normal
+Fisher
+
+mayor normal
+
+Fisher
+abner normal
+
+0
+
+mayor normal
+joe normal
+
+risky smiling
+
+rotty normal
+
+
+
+bolo normal
+
+bolo normal
+
+
+
+abner normal
+
+
+mayor normal
+
+0
+
+Merchant
+Fisher
+risky smiling
+
+
+
+0
+SquidBaron happy
+
+Fisher
+
+
+sky normal
+SquidBaron happy
+mayor normal
+0
+0
+risky normal
+StrangerD
+
+
+
+
+risky smiling
+mimic normal
+0
+Merchant
+joe normal
+joe normal
+
+
+mimic normal
+
+Fisher
+abner normal
+
+
+joe normal
+
+
+
+Fisher
+
+0
+
+
+
+AmmoBaron normal
+
+
+AmmoBaron normal
+
+
+
+
+0
+risky normal
+
+Ammo Guy 2
+Fisher
+SquidBaron happy
+
+
+
+
+
+
+mimic normal
+
+AmmoBaron normal
+
+
+tinkerbats
+
+joe normal
+risky smiling
+abner normal
+
+
+
+
+sky normal
+mimic normal
+
+
+
+
+
+
+mimic normal
+mimic normal
+Chef
+Guard
+
+risky smiling
+AmmoBaron normal
+
+
+mimic normal
+
+sky normal
+joe normal
+SquidBaron happy
+Chef
+
+0
+0
+Fisher
+bolo normal
+
+abner normal
+
+
+rotty happy
+SquidBaron angry
+AmmoBaron normal
+
+
+
+0
+
+SquidBaron happy
+
+
+
+
+
+
+
+bolo normal
+
+risky normal
+
+Voice
+AmmoBaron normal
+
+mimic normal
+
+Fisher
+abner normal
+SquidBaron happy
+Fisher
+mimic normal
+
+
+rotty happy
+SquidBaron happy
+Crowd
+mayor normal
+
+
+mayor normal
+
+
+
+
+SquidBaron happy
+
+GuardD
+JugLady
+
+
+abner normal
+
+
+SquidBaron happy
+AmmoBaron normal
+
+
+
+mimic normal
+mimic normal
+
+joe normal
+Girl
+
+Fisher
+AmmoBaron normal
+rotty happy
+rotty happy
+
+risky smiling
+HypnoBaron normal
+mayor normal
+
+sky normal
+joe normal
+rotty normal
+HypnoBaron normal
+rotty happy
+SquidBaron happy
+
+
+
+
+mimic normal
+
+Chef
+
+abner normal
+
+SquidBaron happy
+
+
+Ammo Guy 1
+
+
+
+risky smiling
+mimic normal
+
+
+
+joe normal
+joe normal
+0
+
+
+
+
+sky normal
+
+
+
+SquidBaron happy
+sky normal
+mayor normal
+sky normal
+sky normal
+
+
+rotty normal
+mayor normal
+mimic normal
+
+SquidBaron happy
+
+Boy
+
+risky smiling
+0
+
+
+mimic normal
+
+mayor normal
+risky normal
+SquidBaron happy
+mayor normal
+risky smiling
+SquidBaron angry
+
+
+
+AmmoBaron normal
+risky smiling
+
+
+risky smiling
+0
+
+
+
+risky smiling
+abner normal
+
+Stranger
+SquidBaron happy
+rotty normal
+
+AmmoBaron normal
+abner normal
+
+risky normal
+
+mayor normal
+
+sky normal
+sky normal
+0
+
+
+Girl
+
+
+rotty happy
+
+
+
+joe normal
+abner normal
+sky normal
+
+Fisher
+
+
+mimic normal
+rotty normal
+poe normal
+
+Dancer
+Voice
+
+risky smiling
+
+Chef
+AmmoBaron normal
+
+
+
+
+
+risky smiling
+
+
+
+Voice
+mimic normal
+joe normal
+
+bolo normal
+
+
+rotty normal
+abner normal
+
+
+0
+sky normal
+
+
+rotty normal
+
+
+
+
+
+
+mimic normal
+AmmoBaron normal
+joe normal
+
+
+
+
+SquidBaron happy
+0
+
+
+abner normal
+
+
+
+
+
+AmmoBaron normal
+poe normal
+0
+
+
+sky normal
+risky smiling
+rotty normal
+risky normal
+
+AmmoBaron normal
+
+mimic normal
+
+
+
+
+
+
+
+
+joe normal
+mimic normal
+
+abner normal
+risky smiling
+Chef
+
+
+
+
+Fisher
+
+0
+
+
+
+
+
+
+
+Fisher
+0
+risky smiling
+
+
+
+
+
+abner normal
+
+mayor normal
+Bather
+0
+
+
+
+
+risky normal
+0
+AmmoBaron normal
+mimic normal
+mimic normal
+
+
+mimic normal
+Crowd
+joe normal
+
+
+
+Fisher
+
+rotund
+Fisher
+rotty normal
+0
+
+
+
+SquidBaron happy
+
+
+Crowd
+risky smiling
+
+
+
+Stranger
+
+sky normal
+0
+
+AmmoBaron normal
+AmmoBaron normal
+HypnoBaron normal
+
+
+
+
+risky normal
+
+SquidBaron happy
+SquidBaron angry
+
+rotty normal
+mimic normal
+mimic normal
+
+
+
+rotty normal
+AmmoBaron normal
+joe normal
+joe normal
+0
+
+joe normal
+Fisher
+SquidBaron happy
+0
+
+
+Guard
+sky normal
+risky smiling
+
+
+sky normal
+
+abner normal
+
+
+Fisher
+
+bolo normal
+mayor normal
+
+joe normal
+Fisher
+sky normal
+AmmoBaron normal
+risky smiling
+Chef
+
+
+mimic normal
+Fisher
+bolo normal
+
+bolo normal
+
+Fisher
+Crowd
+AmmoBaron normal
+
+HypnoBaron normal
+
+abner normal
+
+mimic normal
+
+
+bolo normal
+
+
+mayor normal
+
+
+joe normal
+Fisher
+
+
+sky normal
+abner normal
+SquidBaron happy
+0
+sky normal
+risky smiling
+
+
+
+
+poe normal
+
+
+
+
+
+0
+
+mayor normal
+
+bolo normal
+
+mimic normal
+sky normal
+0
+
+risky smiling
+
+poe normal
+
+
+
+sky normal
+mayor normal
+
+
+Fisher
+sky normal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+1
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+1
+0
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+0
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+0
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+0
+1
+
+
+
+
+1
+
+
+
+
+
+
+
+1
+1
+
+
+
+
+
+
+0
+
+
+
+1
+
+1
+
+
+0
+
+
+
+
+
+1
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+1
+
+0
+
+
+
+1
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+1
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+1
+
+
+1
+
+
+
+
+
+0
+
+
+
+
+1
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+1
+0
+
+
+
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+1
+
+
+
+1
+
+
+
+
+
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+1
+1
+
+
+1
+
+
+
+
+1
+
+1
+
+
+
+
+
+0
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+0
+
+
+
+1
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+1
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+0
+1
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+0
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+1
+0
+
+1
+
+1
+
+
+
+
+0
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+0
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+0
+0
+0
+
+
+
+
+1
+
+
+0
+
+
+
+
+
+
+
+
+
+1
+
+
+1
+
+
+
+
+0
+
+
+1
+
+
+1
+
+1
+
+
+
+0
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+1
+0
+0
+
+
+
+
+1
+1
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+1
+1
+
+
+
+
+
+
+
+
+0
+
+1
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+1
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+0
+
+
+1
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+0
+1
+
+
+
+1
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+1
+
+
+
+
+1
+
+
+1
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+0
+
+1
+
+
+
+1
+
+1
+1
+
+
+
+
+
+
+
+
+
+1
+
+
+
+1
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+1
+
+
+
+
+
+
+
+
+1
+
+
+
+0
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+1
+
+1
+
+
+0
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+1
+
+1
+
+1
+
+0
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+1
+
+
+1
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New Game
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+crash!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ou est le fromage?
+
+
+
+
+
+Ok, let me know when you're ready.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hey, come back!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+je m'appelle Shantae!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skeleton Was Phone?!?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tu es stupide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You should not see this.
+
+
+
+
+
+
+
+
+
+
+Les filles, Ils aiment!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I'll show you a test!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do you like this test?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vous aimez? Vous achetez?
+
+
+Bonjour!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in French
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ok, I'm out.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HI I'm Ms Chef!<lf> It looks like you have the ingredients for a TASTY MEAL!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+clang!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vous pouvez bruler votre amis!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vous sommes le bombe!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Are you ready for another?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here's your TASTY MEAL!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Au revoir!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hm...
+
+
+
+
+
+
+
+
+
+
+
+
+Would you like me to create a TASTY MEAL for you?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+1
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+0
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+0
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+1
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+0
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+0
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+1
+
+0
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+0
+0
+0
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+0
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+0
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New Game
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+crash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ok, let me know when you're ready.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hey, come back!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skeleton Was Phone?!?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You should not see this.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I'll show you a test!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do you like this test?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in Spanish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ok, I'm out.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HI I'm Ms Chef!<lf> It looks like you have the ingredients for a TASTY MEAL!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+clang!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+don’t leave
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Are you ready for another?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here's your TASTY MEAL!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hm...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New Game
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+crash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ok, let me know when you're ready.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hey, come back!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skeleton Was Phone?!?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You should not see this.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I'll show you a test!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do you like this test?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in German
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ok, I'm out.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HI I'm Ms Chef!<lf> It looks like you have the ingredients for a TASTY MEAL!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+clang!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Are you ready for another?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here's your TASTY MEAL!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hm...
+
+
+
+
+
+
+
+
+
+
+
+
+Would you like me to create a TASTY MEAL for you?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+1
+
+
+
+
+
+1
+
+
+0
+
+
+
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+1
+
+
+
+
+
+
+
+
+
+
+1
+
+
+1
+
+
+
+1
+
+
+
+
+
+
+0
+0
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+0
+
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+1
+
+
+
+
+
+0
+
+
+
+
+
+
+1
+0
+1
+
+1
+
+
+
+
+
+
+1
+
+1
+0
+1
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+0
+
+
+1
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+0
+
+
+
+
+
+
+1
+
+0
+
+
+
+
+
+0
+
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+1
+1
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+1
+
+
+
+1
+
+
+
+0
+
+
+1
+
+
+
+
+
+
+
+1
+
+1
+
+1
+1
+
+
+
+
+1
+
+
+
+1
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+1
+
+0
+
+
+
+
+
+
+
+
+
+1
+
+
+0
+
+
+
+1
+
+
+1
+
+
+
+
+1
+
+
+
+
+
+
+1
+0
+
+1
+1
+
+0
+
+
+
+0
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+1
+
+
+
+
+1
+
+
+0
+
+
+
+
+
+1
+
+
+
+
+
+
+0
+
+1
+
+
+
+
+
+
+
+
+
+
+0
+
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+1
+1
+
+0
+
+
+
+
+
+1
+0
+1
+
+
+
+
+
+
+1
+1
+1
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+1
+
+
+1
+
+
+
+1
+1
+
+
+
+
+1
+1
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+1
+
+
+
+
+1
+
+
+
+
+
+1
+
+0
+0
+
+
+1
+
+
+
+1
+1
+
+
+1
+1
+1
+
+
+
+
+1
+
+
+
+
+
+
+1
+0
+
+
+
+1
+
+
+0
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+1
+
+
+
+1
+
+
+
+
+
+
+
+1
+
+1
+
+
+
+1
+
+1
+
+
+
+1
+
+1
+
+
+
+
+
+
+1
+
+
+
+
+
+
+0
+0
+
+1
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+0
+
+0
+
+
+
+1
+
+
+
+0
+
+
+
+
+1
+
+1
+
+1
+1
+
+1
+1
+
+
+
+
+
+1
+
+
+
+
+
+1
+
+
+
+
+
+
+
+1
+
+
+
+
+
+1
+0
+
+
+
+
+
+
+
+
+
+0
+
+
+1
+
+1
+
+
+
+0
+
+
+
+
+
+
+
+1
+
+
+1
+
+
+
+
+
+
+1
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+0
+
+
+1
+
+1
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+0
+0
+0
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+0
+1
+
+
+
+1
+
+
+
+
+
+
+1
+
+
+
+
+1
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+1
+
+1
+
+
+
+
+0
+0
+
+1
+
+1
+
+
+
+
+
+
+
+
+0
+
+1
+
+
+
+
+
+
+
+1
+
+1
+
+
+1
+
+
+
+
+1
+
+
+1
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+1
+
+
+1
+
+
+
+
+
+
+
+1
+
+
+
+
+1
+1
+
+
+
+
+
+1
+1
+1
+
+1
+
+
+
+
+
+1
+
+
+
+1
+
+1
+
+
+
+
+
+
+1
+
+
+
+
+1
+1
+0
+
+
+
+
+1
+
+
+
+
+1
+
+
+1
+
+
+
+
+
+
+
+
+
+
+1
+0
+
+
+
+
+1
+1
+1
+1
+
+1
+
+
+
+1
+1
+
+
+1
+0
+
+
+
+1
+
+
+
+1
+1
+
+
+
+
+
+
+
+
+1
+
+0
+
+
+
+
+
+1
+
+
+
+1
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+1
+
+
+
+1
+
+
+0
+
+
+
+1
+
+
+
+
+
+
+1
+
+1
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+1
+0
+
+
+1
+
+
+
+
+1
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+1
+
+0
+
+
+
+
+
+0
+
+1
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+0
+
+
+
+1
+
+
+
+
+1
+
+
+
+
+
+1
+1
+
+
+
+
+
+
+
+0
+
+
+
+
+0
+
+
+
+1
+1
+
+
+1
+
+
+
+
+
+
+
+1
+
+
+
+
+
+1
+
+
+
+
+
+1
+
+1
+
+
+
+
+
+1
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+1
+1
+0
+1
+
+
+
+
+
+
+
+
+
+
+
+0
+
+1
+
+1
+
+
+1
+0
+
+1
+
+
+
+
+
+
+
+
+
+
+1
+Half of a mysterious object
+Don't blame me when Sky finds out.
+default
+
+I seem to have...
+Yeah, in exchange for some kind of %COFFEE% drink.
+Keep a sharp eye on your %HEART METER%! Once you run out of hearts it's #GAME OVER# for you!
+I just send a message out and another Zombie will answer back in no time.
+Try my #BATTLE TOWER#! It's off in the other direction! Scoot!
+
+And this time I'll teach you some human moves!
+
+Scarecrows are supposed to help protect the fields. What went wrong?
+
+Spoiled him rotten!
+After that she traveled up the coast, shaking down locals.
+Miss Genie, I'm ashamed of myself for behaving so badly.
+
+C'mere boy!
+Shot down!
+So do it.
+You owe me one.
+An unwieldy cloud with an electric personality
+I ate a monkey once. I'm not proud of it.
+Sample text
+My mom dressed as the pirate lady for dad. But I'm not allowed to say such things.
+For the %COFFEE BEANS%, why not try that tiny brained #CHEF# gal?
+Simply hold the #X BUTTON#, and then release it during your second %BELLY DANCE MOVE% to transform!
+Sorry, change of plans.
+A wealthy man from beyond the wastelands has been pressuring me to sell the town.
+You don't wanna be there when sis's eyes roll back and she goes freak show on ya.
+Whew! Life as a #HALF GENIE# is hard work!
+Genie girl!
+Is it dangerous?
+Yo lady. It's dangerous out there. I won't let you leave before visiting the #SAVE GUY#. He's back in Scuttle Town Square. Left side.
+It's a puppy, its cuteness makes your heart sing!
+
+You'll see!
+What's going on?
+
+This is someone's pet!
+It was so sweet of them to help you out.
+Otherwise it's just words. Okay?
+
+You're certainly welcome to try! 
+Want to go with?
+
+Hey! Don't blame me for putting up a fight!
+New Game
+Your uncle is free to go!
+You got %HALF A SKULL%!
+A key so old, it's gathering moss.
+
+The last laugh will be mine!
+In fact, with me as the new mayor, that makes you my official citizen!
+You guys are Rottytop's brothers?
+Come back if you change your mind.
+Risky must know more than you think!
+Abner and Poe?
+What's left is… 
+I don't know what that means, but it sure sounds difficult! Here's 300 gems!
+#RISKY BOOTS#!
+The #GENIES# banished its magic long ago.
+
+I got kicked out of my old town and traveled here to start a new life. I really hope this town can accept me for me.
+Yeah.
+
+It could have gone differently you know.
+
+
+When I need cash, I usually go Naga hunting.
+Uncle, go now!
+Sample text
+Sample text
+
+
+I mean… No, it's not important!
+You still owe me a brain, you know.
+According to this, the Squid Baron lives here in the forest.
+
+The Deed to Scuttle Town?
+
+
+
+Come on! Give it another shot!
+No need for alarm. Shantae, right?
+
+What's this?
+You'd take me back, even without my genie magic?
+You got a %MAGIC JAM%!
+You wouldn't happen to have an egg I could borrow, would you?
+And don't forget to leave room for %EGG%!
+Cackle Cackle!
+But Uncle!
+Have you visited the shop? I traveled from far off lands to check it out myself, but once I arrived I had no money left to buy anything.
+Stand back and watch me sizzle!
+Let's see how you handle my brand new Steam Powered Oceanic Tinker Tub!
+I like your hair.
+You've been paid, now shove off!
+Will you take the job?
+Channel your passions and allow the magic to %TAKE SHAPE%! 
+Sorry kid! You're full on those!
+
+Tell 'em the #AMMO BARON# sent ya!
+
+You are a Master of Battle?
+
+I'm guessing training week was a bust?
+It looks like…
+
+Now, give me those %THREE MAGIC SEALS%, and I promise that your uncle can go free.
+Yeah! I've still got the moves!
+
+
+You're finished, Risky!
+
+You got the %MERMAID DANCE%!
+I'll check the web.
+
+
+
+not used
+
+The Squid Baron, the Ammo Baron, and the Hypno Baron.
+Would you like to %SAVE% a record of your journey?
+Remain still! Leave the situation to Sky and Bolo.
+I need your help.
+Do not hesitate!
+
+Temp Intro text!
+
+Use fireballs to BBQ your enemies!
+Ammo Baron hasn't got all day!
+Come back once you find some %COFFEE BEANS% and I'll help you out.
+Ok, yer doing it again.
+Otherwise she wouldn't have stolen it in the first place!
+Yehaw!
+Sample text
+Just stick this wad to the Baron's door,
+
+I wonder what ever happened to little Chewbonky Kong?
+Ho ho ho!
+Perhaps that part of you doesn't come from your #MOTHER#.
+
+
+I suppose you're still angry with me.
+And its %DARK POWER% will be mine!
+You've learned a thing or two since our last duel.
+It's the perfect staging ground for my new campaign!
+
+Thanks Barracuda Joe!
+We should rub bellies. It's lucky.
+The chick with the brain?
+As usual, we'll kick off the festivities by cracking open a fossilized treasure and offer the contents up for auction! 
+Right, Wobble Bell?
+Go see the #AMMO BARON#.
+And just so there's no hard feelings, take this here.
+Well, you remembered Poe's egg anyway, so at least he'll shut his gab.
+Nice! You got a %KEY%!
+No way! I can handle this! 
+Please honor my request as a final act of service.
+Take a look.
+You found all %THREE% of my babies! I'm fit to burst!!
+I don't know why it chooses to obey.
+Huh?
+Start a new game!
+I'm famished!
+So, after much thought I've decided to turn the reins over to him.
+(#Kiss!#)
+Trust me.
+Where are your brothers?
+
+Ohmigosh, Sky's %EGG%! 
+Got the %EGG%...let's go!
+
+You got a %PASSPORT%?
+Hey Shantae, what's it gonna take to get you back on stage?
+
+Drop it off at the old #BOAT HOUSE# and we'll hook you up with a way into that labyrinth.
+What are you standing around for?
+Sample text
+not used
+Temp Intro text!
+Ever since this pirate thing started, Scuttle Town's been going to the dogs!
+...
+
+Now's my chance to get them to Uncle Mimic's #WORKSHOP# back in Scuttle Town.
+I'll admit at first glance it seems pretty useless.
+
+May fortune follow you in your travels.
+
+Have you seen the other fisherman in this town? Talk about FAT!
+Take them and run!
+No! I forbid you to go!
+Who are they?
+Sample text
+
+Speaking of which, do you have my %EGG%?
+Don't say “kiss” to me unless you're actually givin' me a kiss.
+Yeah.
+I'll start my search with the #SQUID BARON#! Thanks Rotty!
+You got something for the Ammo Baron or not?
+Oh, and I like mine with a little %ROTTEN EGG% mixed in.
+No more zombie barista.
+
+
+
+One tall coffee, extra room for stank.
+Enchanted Vial that refills your Magic Meter.
+It's like, world-wide!
+Vial 3 pack! More magic for the price of less
+By now you've probably seen some pretty %BIG BOULDERS%. They're scattered along the path outside town. I wish there was some way to just knock them aside!
+The #IMPORT ROOM# lady used to work at a bathhouse. I miss that place.
+
+
+Have you been to the %FOREST CAVE%? It has a %LOCKED DOOR% inside. Perhaps I'll tunnel in there one of these days for a look see. Of course, it would be much easier If we had the missing %KEY%.
+
+Who are you guys...
+
+Wrench spotted a tent while flying over the desert. Maybe you should check it out.
+Information that valuable is not given away for free!
+I can't say the same for you.
+
+
+
+With this, I can turn a genie into a weapon of %TOTAL DESTRUCTION%! No one will dare to defy me!
+
+Rottytops?
+Risky will use my magic for evil! And all I have to fight with are these %ITEMS% I've found along the way!
+You got %FOREST KEY%!
+Resume a game in progress!
+It's your sworn duty to protect this town against the criminal element!
+
+What's #AMMO TOWN#?
+Sorry, nothing for you this time! Please try again later!
+Misty exterior hides explosive passion
+Monkey Dance! Release the X BUTTON during pose 1!
+
+You have GOT to try one of these!
+Clock starts once you pass through that door.
+I'm so pleased that you walloped that awful Squid Baron! I just know he stole %THREE% of my precious Magic Jams!
+You can't tell where the foam ends and the scrambled eggs begin!
+I can't.
+
+
+My dream has always been to become a master chef, traveling the world with my pup #WOBBLE BELL#.
+
+You would destroy your superior half in exchange for this town full of simpletons?
+Can someone get this #GOLEM# outta my way? 
+Entry fee's %20 GEMS%.
+
+Make yourself comfortable, grandpa!
+Yo! This forest has a lot of nooks and crannies. Your curiosity can really pay off.
+Two deadly orbs of destruction!
+All besides #WRENCH# here. 
+Why, to strike a deal, naturally!
+not used
+
+#POLYP BAY# is dangerous! Why does the Mayor hang out there? He really needs an office.
+Hey, look who's back!
+
+Do you know what she's talking about?
+
+Sample text
+
+
+Like, we know your next stop is the #HYPNO BARON#.
+
+
+Is that my #WOBBLE BELL#?
+
+Oh, Wobble Bell! If only I knew where he went! He probably felt that I took him for granted and left me to find some other chef to inspire! And now, they are making wondrous dishes together and traveling the world. And let's be honest. I was taking him for granted. I rarely even fed him. And when he wanted attention I'd just push him aside and focus on my culinary arts. But now he's moved on, and my fate is sealed. Sure I'll cook, at first out of habit. But eventually I'll become a heartless automaton, marrying the first man that shows interest and I'll cook and I'll cook. People will come for miles to try my recipes, I'll be famous, and the world will become reliant on my food. Then Wobble Bell and I will meet at random and it will be awkward. I'll bury my feelings until one day I crack. And that will be it. I'll give up cooking and the world will have nothing to eat, and every living thing will starve and die out. The land will grow cold and life as we know it will cease. Oh Wobble Bell, please come back!
+Zombie Latte with Egg
+Scuttle Town ain't got room to dock 'em all.
+Not ringing any bells.
+Just junky junk!
+It smells wonderful!
+Poor Uncle… this is all my fault.
+The %MONKEY DASH% and the %ELEPHANT STOMP%!  You should search the desert %HIGH% and %LOW% until you find these special %RELICS%. It may be impossible to advance without them.  
+What's this?
+The outcome would have been the same! 
+Simply hold the #X BUTTON#, and then release it during your third %BELLY DANCE MOVE% to transform!
+Attracts dropped items like a magnet
+
+Ho Ho Ho! 
+Look, no need to get worked up. Right?
+default
+No one around here could possibly smash a #GOLEM#. So what's with the picket signs?
+You're really pushing the boundaries of friendship here.
+There, there. Everything's going to be ok.
+Boulders, Golems, even Fire Breathing Statues. They are all made of stone. There must be a way to smash them apart!
+Risky!
+
+Gasp! She's right!
+The %MERMAID DANCE% will allow you to explore the ocean depths!
+That makes the new mayor ME!
+
+
+The Deed to Scuttle Town! 
+Oh boy it's a blob.
+
+
+It's citizens only!
+
+Not a chance! Back off, or I'll smash this thing to pieces! 
+Ummm...There's supposed to be %ROTTEN EGG% in that.
+When I grow up I'm going to master %FIRE MAGIC%!
+What does this lamp do anyway?
+Your genie friend should be arriving any moment now.
+Stop it #ROTTYTOPS#.
+Our offer is this.
+It's clear that you love this town and will defend it to the end.
+But…
+If those zombies love coffee so much,
+Are you all right?
+Your Mother…
+Here.
+
+You got %FISH NIP%!
+Looking for me?
+Look.
+
+If not, things are gonna get ugly!
+Please don't argue.
+Turning my friends against each other.
+I don't know what that means, but here's 100 gems!
+If you don't have my tasty meal, get lost!
+I've got the deed to Scuttle Town!
+Who's this guy?
+
+Your spelunking uncle is always dredging up new collectables, but this one!
+Sample text
+
+You sure you're ready?
+default
+Gone.
+We've been doing a wagon tour, sampling the local cuisine.
+Didn't you take it for a %SWIM% yesterday?
+Absolutely! I'm going to have a talk with the Ammo Baron and get our town back to normal lickety split!
+Who changed the Dock Manifest to say #AMMO TOWN#? Is this a joke?
+This is the place! Should I stick the %PLASTIC EXPLOSIVE% here?
+default
+That is, my old basement. I had to rebuild this place when I went commercial, what with zoning laws and all.
+If you still want to know the %SECRET% of the lamp, I'll show you!
+
+You got all that?
+They're waiting for you at the #BOAT HOUSE# up the coast.
+You got %BOTTOM HALF OF SKULL%!
+But I fear that making a tidy profit on the town moments before it's obliterated is the only solution.
+wouldn't Rottytops have one?
+Well, well, well. I see you managed to beat me to the first %MAGIC SEAL%! 
+Welcome to the #IMPORT ROOM#!
+Slow Roasted Zombie's Choice coffee beans
+Hey snack cakes!
+All you need now is a detonator!
+I'll deal with Risky!
+Sample text
+Press down while in the air to smash the ground!
+Please be enough!
+I don't know what A-Rank means, but here's 100 gems!
+Huh? There's no way to unlock this door!
+No, please read it.
+Don't do it, Shantae! 
+I hope to see something truly amazing today!
+Word has spread.
+Don't bother with the puppy dog eyes.
+If you want to be transported, just ask me any time and I'll warp you to my bro! Warp Pedestals always work in #PAIRS#. Direct connections, got it?
+I don't know what D-Rank means, but here's 25 gems!
+such bravery!
+I heard the zombies parked their wagon in the #TANGLE FOREST#. Just thinking about it gives me goose bumps all over my body! Right here, and here, and here!
+Did you visit the old man? I guess I can let you go then.
+And this here's #POE#.
+You got %COFFEE BEANS%!
+You see?
+It's time!
+Sigh. I guess.
+You don't have enough gems to enter!
+Dead serious.
+Gasp!
+not used
+Men!
+You don't have the cash for that!
+Oh no...
+But now his offer is the only hope for our people.
+far to the right of here.
+None of my pals have heard of a Magic Seal.
+Wobble Bell!
+We all love this place and will defend it together! As a team!
+Warp to #RISKY'S LAIR#?
+Ick, what is that thing?
+I snagged one of those Jam things in my net, but that dopey kid threw it back.
+Get going.
+It's filled with tricks and traps.
+The official map of Sequin Land!
+Ah, you've arrived.
+But he seems to have run away, and without him to inspire my dishes, my dream has fallen into ruin.
+
+Temp Intro text!
+I'm just dropping by for this!
+
+
+Huh? Whuzzat?
+Mermaid Dance! Release the X BUTTON during pose 3!
+Yoo hoo!
+I love to run! Press %SELECT% to switch %ALWAYS RUN% on or off. It's so handy!
+(#Kiss!#)
+But this feller doesn't have the %ARTIFACT%.
+
+
+
+
+
+
+
+Sample text
+
+There's my boy!
+Please deliver that %DEED% to the #AMMO BARON#.
+Ha ha ha ha!
+Well holding back now won't help any.
+Like?
+It's time for a showdown!
+You have been to the Mighty Milky Way?
+not used
+Moan… She got away…
+I know!
+Make it to the top and you get a prize!
+
+Simply hold the #X BUTTON#, and then release it during your first %BELLY DANCE MOVE% to transform!
+It's not over yet!
+
+Put it back where you found it!
+
+
+To change back, press the #X BUTTON# again!
+
+All this excitement is making me sleepy.
+Sample text
+
+
+My magical half is gone!
+Hear me #GENIE OF THE LAMP#, I command you to appear!
+
+I'M A DOPEY KID!
+She'll use them to unleash the lamp's %HIDDEN POWER%!
+I don't have a choice.
+
+
+Flamethrower: kids love it!
+Elephant Dance! Release the X BUTTON during pose 2!
+I don't get to see many of your kind in the middle of the desert like this.
+Zombies use them to communicate across long distances via web vibration.
+We were looking all over for you.
+Pheeewwww! 
+You'd better have. 
+…an oil lamp?
+You are a hero!
+You got a %PUP%!
+And that's my final word on the matter!
+
+Nicely done. Now be a good girl and hand it over!
+Looks old, like somethin' a Wood Sprite would use to wind their watch with or some dumb thing.
+That there's enough %PLASTIC EXPLOSIVE% to blast his wimpy door into next week!
+And our lifetime supply of coffee!
+Sample text
+It's time for Risky's Revenge, so let's attack aggressively!
+
+I knew that old coot would knuckle under!
+
+Better go and find all three of them.
+You got %ELEPHANT STOMP%! While in air as an elephant, press %DOWN% to %STOMP%!
+
+...and I'm your official Lordship, why don't you enlist into my private army?
+Oh bother. This is no good, the %COFFEE MACHINE% is all busted up!
+Don't be stupid!
+No need for alarm! 
+Come on boy, let's do your thing!
+I was there! That was just this morning.
+I'm looking for a %MAGIC SEAL%
+and I hear you have it.
+I'm certain that the #SQUID BARON# stole %THREE% of my precious %MAGIC JAMS%. I hope someone finds them and puts them to good use.
+When Risky Boots returns to rule over us, I'm planning to switch sides. Hey. It's survival.
+
+
+He might be a stinker, but I think he's telling the truth.
+
+%JUGS% are always filled with goodies, and come in all shapes and sizes! Smash them up!
+All my friends live in Scuttle Town, and we're pretty happy with things the way they are.
+
+
+Come on! Just a scout's taste!
+default
+I've let her, and everyone else down all because of my foolishness.
+Shantae wake up!
+You've got to accessorize! Get some %SILKY CREME% for that hair! It gives your hair full body and repairs split ends.
+That does it!
+Whether you believe me or not, that zombie and pirate are in cahoots, and that's a fact!
+Sigh.
+Risky Boots says she took your uncle, and will trade his life for the three %MAGIC SEALS% you've got.
+What is that?
+You're fired!
+We have no choice.
+
+Suit yerself!
+We found a ransom note in his workshop.
+In a few moments, the %LAMP% will be restored to full strength!
+
+We're a whole town, we need complete protection!
+To and fro, to and fro!
+Sorry kid. Citizens only.
+
+How do I get down from here?
+
+You can at least tell me why Risky would steal it.
+Ok, you've got yourself a deal.
+I'm not a boy.
+That or do a saucy dance.
+The deal wasn't for cash! What about her brains!
+
+The %MONKEY DANCE% will allow you to climb walls and leap to new heights!
+Sometimes I fall asleep when no one is looking.
+Don't leave town without a %SEQUIN LAND MAP%! It shows all the #SAVE ROOMS# and such. You can get one at the #SHOP# for super cheap!
+Now that Wobble Bell is back home safely, my dream of becoming a famous chef can finally come true!
+I feel strange on the inside and the outside.
+Wrench reports signs of a camp way out in the desert. Could be a lead.
+
+It's over, Risky!
+
+Fine, we'll do this the hard way.
+
+And afterwards, we must never speak of this again.
+No, here.
+Click Clack, wait for it...
+You just missed my brothers.
+See these arrow things on the ground? Folks call 'em %JUMP PADS%! Jump off'a one to launch forward or back. They'll take you straight to the #TOWN GATE#.
+Uncle Mimic needs me!
+Gotta keep your eye on the prize!
+
+You've been skipping your %BELLY DANCE% classes? No wonder you can't remember any %TRANSFORMATION DANCES%!
+That there's your official %AMMO TOWN PASSPORT% and activity book!
+That's how Barracuda Joe got in.
+Sample text
+Who approaches my #MAGIC FOUNTAIN#? 
+Citizens of Scuttle Town, may I present... this year's %OBJECT of MYSTERY%!
+You have no idea the trouble that's in store!
+So all along Risky had us thinking that the lamp was the weapon.
+Huh? 
+
+You're a lifesaver!
+. . .
+Let's see...
+You might look like him, but you're not my uncle.
+Risky's lair is #EAST# of here, just outside town in the deepest part of the sea.
+You're the worst egg-sitter ever. 
+Very funny. 
+Sorry chica.
+
+Spin a deadly %PIKE BALL% around your bad self
+Fork him over.
+
+Sure, you can't miss it.
+YAWN! Is it morning already?
+Can we be reasonable?
+BOOM!
+Those two muscle heads never stick around for long.
+
+What is that heavenly smell? 
+My babies are probably hiding in the undersea caverns close by.
+You got a %GOLDEN BABY SQUID%!
+
+
+I don't know what that means, but here's 300 gems!
+Pssst! 
+Ok!
+My dad told me that when I grow up I will like girls. GROSS! That's not true, is it?
+You got a %PASSPORT%!
+not used
+I'm off to see your uncle's show.
+With this lamp I've finally got the means to crush Sequin Land once and for all!
+
+I seriously have to do a %COFFEE RUN%?
+But it won't do you any good. 
+Come back once you have a %COFFEE MACHINE% and I'll help you out.
+Uncle... my magic…
+Oh Miss, how can I ever thank you?
+I had a feeling you'd show up!
+And I promise that from now on I won't be too proud to take help from others. Especially you guys.
+Save complete!
+
+You've outsmarted Risky Boots.
+Hey, you made the coffee for my bros? That's so sweet! They're waiting for you at the Boat house!
+
+
+A powerful artifact exists which allows a monkey to dash over #LARGE PITS# like a speeding bullet.
+This would put him near the old Boat house!
+Hold up, girly girl.
+You sure are lucky you have your hair to use as a weapon. I'm forced to resort to meaty punches and stubby leg kicks.
+
+
+Looks like we've got a winner!
+We're here cause we got a proposition for you.
+
+Mysterious power emanates from the magic seals
+
+It's not your fault Uncle. The danger was always out there. I was the one who rushed in unprepared.
+
+
+Mayor Scuttlebutt!
+Thanks to you, I've got one rotten egg too many.
+I'm afraid my patience for you is starting to wear thin. Why don't you hand over both %MAGIC SEALS% now, and save you and your dear #UNCLE# from any further unpleasantness?
+
+Rat-a-tat!!
+The townspeople will thank you!
+Thieving bandits who pass themselves off as artifact collectors.
+
+You have two, and now you're here for the %FINAL ONE%!
+Please wait while I check your Nintendo DSi.
+His oceanside fortress is impenetrable.
+I'm sure that's normal!
+It's a #LABYRINTH# that bores deep into the seaside cliffs.
+Thank you Sky! Wrench!
+Hiya Shantae.
+
+In addition to blasting enemies, you can also destroy the %UNDERSEA BLOCKADES%.
+Destroy this brat!
+play with this!
+Pull a fast one on ol' Barracuda Joe?
+You're human now.
+Out in the desert is a mysterious %TOWER%. Maybe one of your Baron guys lives there.
+I don't know what that means, but here's 200 gems!
+Don't leave town without buying magic from this #SHOP#! I'd start with %FIREBALL% magic if I were you. It's perfect for long range attacks, and will ignite certain enemies!
+Give me everything you've got!
+What have you done!
+
+Hurry up and bring it inside!
+Warp to #PUMPKIN PATCH#?
+You got %MERMAID BUBBLE%! While swimming as a Mermaid, %ATTACK% to fire bubbles! 
+It's okay, Uncle! Show us!
+The secret entrance to #RISKY'S LAIR# is to the #EAST#, beneath the sea!
+
+When you’re not sure what to do next, come talk to me, Bolo, or Uncle Mimic! You can find all three of us here in Scuttle Town. From now on, don’t be afraid to ask for help!
+
+
+
+The highest level of fire magic is the %FLAMETHROWER%! Take that, you monsters!
+Half of a mysterious object
+Aren't you a grump! 
+Do you think you're up to the challenge? 
+We get you in.
+A potion 3 pack that's easy on the wallet!
+
+
+You're the speediest planet hopper this side of the Milky Way?
+Now get going, I'm a busy man!
+
+Maybe you should sit down.
+My %MAGIC SEAL% is staying right here!
+
+
+Sky, Bolo! One of you catch her before she reaches the dock!
+
+Gonna have to hair 'em till it hurts!
+Warp to #SUNKEN CAVERN#?
+
+not used
+
+Ammo Baron's the new mayor? You can kiss the dance costumes goodbye.
+
+Hah! Do you understand now? This lamp has the power to suck up and %ENSLAVE GENIES%!
+Buy this item?
+Anyway, let's get out of here. The others will want to know you're safe.
+
+Welcome to the #ITEM SHOP#!
+Quit being so shy!
+My warbird hatchlings literally flew the coop.
+If you're feeling rusty, hold the #X BUTTON# to do a practice dance.
+...
+If you agree to save my %THREE GOLDEN BABIES%, I'll show you how to open the path to Risky's hideout.
+Shall I smash it open? 
+No prob. Come back any time.
+
+You're going to need a %COFFEE MACHINE%
+But since you're a Half Genie, I figured why not use the lamp to %STRIP YOU% of your %POWERS%!
+
+Lock and load men!
+If only there was.
+A % MAGIC SQUEAL%?
+He was in rare form.
+We'll attack from here.
+But no matter.
+But if you've got to trade them coffee, you'll need beans and a means to grind them up.
+But...
+
+
+Left of town is the #PUMPKIN FIELD#. Off to the right is the #LILAC FIELD#. Try not to get lost.
+Why not train that bod at my private #BATTLE TOWER#?
+incredible man...
+No.
+Splish splash!
+Well, it's nothing my #WRENCH# can't repair!
+Channel your passions and allow the magic to %TAKE SHAPE%! 
+Yuck, this thing's full of bugs now. 
+
+Choose the File that should be erased.
+The mermaids out by the cliffs are so mean! Why do they behave so?
+What!?
+Ahem! 
+When her real scheme was to get her grubby mitts on your magic!
+I'll protect this place with everything I've got! But I won't do it alone anymore.
+Evil doesn't stand a chance!
+Is that %TASTY MEAL%?
+Shantae! You've won!
+Warp to #SEASIDE RETREAT#?
+
+%COFFEE BEANS%? I had some in the basement.
+Plastic explosive? Let's blow something up!
+Well, this takes the cake doesn't it? 
+Is Risky Boots really going to destroy our town?
+
+You met a #DANCE SPIRIT#? Lucky! I hear they reflect the face of those who find them.  Is that true?
+Want some help with that?
+This sounds fishy.
+You got the %MONKEY DANCE%! 
+Have you seen the old coot in this town? He's the #SAVE GUY#! See him if you want to record your progress.
+Is this a mind game?
+She really shook things up, and now my kids have run off!
+not used
+Tsk tsk. 
+Please understand, she's doing everything possible!
+Monsters still roam the outskirts of town. Be careful out there!
+Hand it over!
+Snooze time!
+Beat the clock, and you win.
+He is keeping secrets from you!
+She's hiding out in the lamp's original resting place, somewhere #EAST# of here.
+Smooths and shapes for max hair power!
+
+I'll find those three %MAGIC SEALS% and put an end to Risky's evil schemes once and for all!
+Artifact collectors…
+It's your town's #NEW NAME#!
+Very, very dangerous.
+You know about wild brain-eating zombies?
+So anyways, here's the ticket to getting into the #HYPNO BARON'S# joint!
+
+
+You're late! 
+
+The Ammo Baron!!
+
+What's that?
+That is what your uncle has been hiding from you!
+Now let's see how you fare without your special powers!
+That guy is so dead.
+ It looked lost, yet filled with glee. What a strange world we live in.
+
+
+not used
+You guys were dragged into this because I was too weak to do my job. 
+A Golden Baby Warp Squid! Awwww!
+
+
+
+
+#CROWD:# Ooooohhhhh!
+#DINE AND DITCH#!!
+Shoot. That's embarrassing.
+Dag nabbit! I left my other town to escape the #AMMO BARON#. Looks like I may have to move again.
+
+not used
+I can't transform!
+Have you heard of the #AMMO BARON#? He lives out in the %DESERT% past the Pumpkin Fields. His eyeball creeps me out.
+But good luck gettin' inside the Hypno Baron's digs if you don't!
+
+I sense a restless energy deep inside you.
+Heart Holders for extending your health.
+It's the only way.
+Name's Barracuda Joe, and this here's the #BATTLE TOWER#.
+not used
+In the flesh!
+That's right!
+You know, I used to have a %COFFEE MACHINE%, but I lost it the last time I came to this forest.
+
+In English
+
+It smells like Grandma!
+
+#SKY# and #WRENCH# flew in this morning just to see it. 
+
+
+I don't know what that means, but here's 100 gems!
+Until you're packin' %HOT COFFEE%, beat it!
+Don't move a muscle!
+Today's the #RELIC HUNTER EXPO#! 
+I resisted, of course.
+That's how we cook up a tasty meal using only natural ingredients!
+You got the %EGG%!
+You are a Mighty Flip Champ?
+You need to see the Mayor. He is at his happy place, the Seaside Retreat. It's at the far end of #POLYP BAY#.
+I'm changing my name to #AMMO BARON JUNIOR#! My mom protests.
+Ho ho ho!
+If you've got something to say, say it!
+
+
+Sample text
+Whatever!
+
+My heart weighs heavy like my jug.
+Sheesh! 
+If you make an important discovery, be sure to hit a #SAVE ROOM# afterwards!
+What kind of moron doesn't know %EAST% from %WEST%?
+Well genie girl, a deal's a deal.
+I do!
+You got a %TASTY MEAL%!
+Ok, time to clock in! #WARP TWINS# are on the job!
+Sample text
+Don't leave town without buying magic from the #SHOP#! I'd suggest starting with a %PIKE BALL%! It's the perfect orbital defense weapon!
+You're back!
+
+Channel your passions and allow the magic to %TAKE SHAPE%! 
+You can't mean it!
+Ho ho ho! 
+Perhaps it's not %GENIE MAGIC% as I once suspected.
+Sample text
+default
+Knock 'em dead!
+Take it, it's yours.
+Three spheres of ultimate suffering
+Temp Intro text!
+And very dangerous.
+
+Do you like my hat? I like my hat.
+Yeah, that's right.
+Look, Rotty.
+
+We've got other stuff up there too, like actual cash prizes.
+Risky Boots!
+Popcorn! 
+There's a lesson there for you, Shantae.
+Has anyone seen Mimic, the Relic Hunter? I have a question about my digital watch.
+
+Sample text
+
+Great Snap!
+#Gasp#! What…
+Boosh-wahhh!
+
+...
+Blamity Bloo!
+No thanks. I've got business to attend to, er...
+If you find him, please tell him I miss him! Oh Wobble Bell! I miss my %PUP% so much!
+Didn't you explode in a huge Stage Clear sequence?
+You beat Mighty Flip Champs?
+Sample texte
+Not bad!
+Seeing you again fills me with vigor!
+I'm watching out for evil.
+Seagulls again?
+You need to find a %GOLDEN BABY%. Try searching #UNDERWATER# for them!
+
+
+The %ELEPHANT DANCE% will allow you to smash away obstacles!
+Whatever, here's your lousy drink.
+I have to do it!
+What is it about this lamp that's got you so worked up?
+Sigh. It's true. The potential for evil is too great.
+
+You look like a spry young thing.
+It's sick.
+Deep down I want to keep trying, but I'm useless without my magic. 
+…
+
+Tell you what.
+Hoist my booty through the roof! 
+Yeah, she's the one little sis is always runnin' at the mouth about.
+…
+
+You will? Yes! Yes, I'll do it!
+
+Oops!
+Let's move on to the next event…please turn your attention to… 
+
+
+Save Data has been corrupted. The game will now reset.
+
+
+What a smelly egg! 
+I… I can't tell you!
+That lamp caused a lot of suffering back in her day.
+You're right.
+Thanks for talking to the Mayor. 
+
+Open wide and say #AHHHH#!
+I'll hole up here until that tightwad Mayor gives up the %DEED% to his town!
+We check for hidden treats from lands beyond!
+Your Magic Meter refills automatically
+Fortune most foul! 
+Battle Tower?
+I don't trust that #ZOMBIE GIRL# or her brothers.
+Enlist and he'll get you straightened out.
+It was that #ZOMBIE# gal.
+Can it be?
+Uncle, what about my hair?
+Greetings stranger! I'm what they call a #WARP PEDASTAL#! It's my job to zap folks from place to place! I'd like to help you out, but my #TWIN BROTHER# is asleep on the job. Until he wakes up, I can't do squat!
+Sample text
+When I was a little boy with a full beard, I dreamed one day I was going to be a fisherman, and now I am.
+And Rottytops and her brothers, too.
+
+Heya brainiac.
+Oh boy! 
+Now you're acting weirder than the Mayor!
+Seriously, you should see our network.
+Me and my babies are ready to tussle!
+We even got an open air shower!
+
+Where's Uncle Mimic?
+
+Sample text
+The #RELIC HUNTERS# are known world wide for their unusual discoveries. 
+You've got it all wrong! Risky Boots didn't take your old friend.
+
+Not enough %MAGIC JAMS%!
+If you find a %MAGIC JAM%, don't just give it away! Trade it for something valuable! 
+
+
+then you deserve to know the %LAMP'S TRUE POWER%!
+
+Bah, who needs magic! First thing tomorrow we'll start training again.
+
+You fool!
+
+Who's out there?
+Don't you worry about a thing sweetheart!
+
+...err, brought the wrong item. Uh, that is...
+I'll give you one last chance to hand over that lamp!
+Make sure you have the three basic magic types. You never know when they will come in handy!
+You ain't gotta do it.
+C'mon kiddos! Whoever has the %ARTIFACT%, give it to the nice lady!
+Sometimes I wish I grew up to be a dancer instead of a jug holder.
+Sky's warbird, #WRENCH#, is pretty handy when it comes to making %REPAIRS%. He's half wren and half finch you know!
+Well.
+
+What's shakin'?
+YOW!
+huge bowels... 
+Now that the Risky Boots is plotting revenge, Sequin Land Palace is afraid to send wagons.
+Are you serious? 
+
+Nonsense!
+
+
+Put it back before there's trouble!
+
+Let's both be reasonable!
+Now that I've got all three %MAGIC SEALS%, I half expected Risky Boots to make a grab for them.
+I'm four!
+No, I've never been to the Battle Tower. But I hear there are rewards for those who reach the top again and again.
+
+
+A %LATTE%? That's a chick's drink!
+
+A tasty meal to go. Sure smells great!
+One of them has an %ARTIFACT% that will help you enter the back door to #RISKY'S LAIR#.
+New mayor, new name!
+This had better work!
+You got %MONKEY BULLET%! While climbing a wall, hold %AWAY% from the wall and then %ATTACK% to launch like a bullet!
+I don't know what S-Rank means, but here's 150 gems!
+Hmm?
+We must find all three %MAGIC SEALS% before Risky Boots does.
+
+Looks like we've got a winner!
+Ohmigosh! Something smells like wet animal.
+It's my responsibility as a Guardian Genie to face this on my own.
+Hmmm, I haven't seen much action here in town for a while.
+The Ammo Baron doesn't need another girlfriend!
+Of course! They're my brothers!
+Awww, he's my #CHIT CHAT SPIDER#!
+Proof of Ammo Town Citizenship
+They're going to get ugly all right!
+You must be the genie, looking for the %MAGIC SEALS%, yes?
+Life will never be the same, but at least Scuttle Town will be provided for.
+Now to take this to the #BOAT HOUSE#!
+Shantae, you can do it!
+#BATTLE TOWER# rules are simple.
+Any luck finding %COFFEE BEANS% or that %COFFEE MACHINE%?  I'm sure they're here in the forest!  
+You're very very smart! 
+Just west of here is a mysterious cave with a locked door inside. Did you check it out? 
+Ok then.
+Magic Potion for restoring health.
+
+
+
+Things will be different from now on.
+Hold on, Uncle! I'm on my way.
+Voila!
+Barons of Sequin Land?
+Look who's back!
+
+You're the delivery boy?
+
+
+Whew!
+not used
+Ehhh heh heh...
+
+Heave ho men!! 
+That lamp is extremely dangerous!
+You're the best pals ever!
+
+All these boats comin' in. 
+What are you tryin' to do?
+No idea what that thing's for.
+You got the %TOWN DEED%!
+
+Hey, that's my home you're talking about!
+
+Let's get this done quickly!
+Well, what are you waiting for?
+
+Risky wins this time. 
+Hey, that coffee wasn't bad! Maybe you outta consider a career change.                  
+It's about time you got here! I put my order in hours ago!
+Shantae, there you are.
+Pack up your things and clear out.
+Kick her butt! Take her down hard!
+Evil never rests.
+
+
+not used
+That's why I'd like you to return as Scuttle Town's guardian.
+It's trouble.
+There has to be some other way!
+Miss Boots will be expecting to fight you on her terms.
+
+Make sure you stop by the #SHOP# for some magic before you go! I'd suggest the %STORM PUFF%! It's the most powerful weapon to start with, even if it is tricky to use.
+Risky! This is a new low!
+Throw the Steam Powered Oceanic Tinkertub into overdrive! Let's see what this baby can really do!
+You got %PLASTIC EXPLOSIVE%!
+Fussy old explorers always find the weirdest stuff from the old world. 
+Whee! It's Expo day! 
+This year's mystery object appears to be encased in solid stone but feels quite hollow.
+
+Oh, the genie.
+Tsk tsk!
+You've done it!
+not used
+You three!
+So, you managed to solve my labyrinth!
+
+
+Yeah, well about that… 
+WHEEEE-ooo!
+Then enjoy your victory!
+You discovered a %FOREST LABYRINTH% with a #BOSS# inside? Well, you'd better head back there. Sounds like you need to find and defeat that guy.
+She'd never!
+The %MAGIC SEALS% are mine!
+You got the %ELEPHANT DANCE%!
+not used
+
+GIVE RISKY THE %MAGIC SEALS%?
+The %MAGIC LAMP% is back in action and ready to rock!!
+Let's go. I got a feelin' things are about to get %MESSY%.
+
+On my journeys I once came across a %GOLDEN SQUID BABY%.
+You brought back a %GOLDEN BABY%!
+Hey!
+It's just a worthless lamp!
+Ka-Boosh!
+In return, you gotta brew us some %COFFEE%.
+I need help coming up with a plan!
+After all, there aren't any real Genies left to enslave.
+Three fireballs at the same time!
+Without our fishing trade, Scuttle Town is all washed up. I was hoping not to resort to this, but here.
+
+Hey Shantae!
+Risky Boots and her Tinkerbats are still out there.
+Sample text
+Risky Boots!
+
+We're now called #AMMO TOWN#? Lame!
+
+No sign of Risky Boots, OR her pirate ship!
+The #SQUID BARON# lives somewhere in this forest. Start with him.
+
+Current probably carried it away by now. If only there was some way to swim down there and get it.
+
+Just didn't have it in ya this time?
+hit it with an %ELECTRICAL SPARK%, and stand back for the fireworks!
+It took nerves of steel to do what you did. Destroying your magical half was pretty gutsy.
+
+As a child I was raised by a family of squids. I never learned to warp though. That's a power they have that I will never understand. 
+That's strange.
+There's still time to stop you!
+It will be difficult.
+She's looking for the #THREE BARONS# of #SEQUIN LAND#.
+From Scuttle Town?
+That says it all.
+The %MEGA PIKE BALL% has three balls with blades on them. It's super devastating!
+not used
+But he'll change his mind once I get that lamp back.
+Don't stop until she's a stain on the floor!
+Nevermind. I'll return this puppy myself.
+Ahh, the lingering smell of kitchen spatter!
+My men will march across the land like two tons of tactical tin toy terror!
+Besides, why should I believe you?
+If you find any %COFFEE BEANS% down there, you're welcome to them.
+
+I don't know what C-Rank means, but here's 50 gems!
+
+not used
+
+
+What's this?
+#VOICE:# I can help! 
+Ladies and Gentlemen... my mistake! 
+We'll track your best scores and all that...really make it worth your while.
+I'm only Half Genie!
+We can't go without Sky's %EGG%.
+You beat Mighty Milky Way?
+Blarrgh! NO %SMASH% ME!
+Oh gross, now he's got a worm!
+It ain't worth fightin' over.
+
+
+You got a %LATTE%!
+Open wide!
+If it means saving our town from evil, you bet!
+
+not used
+Grip a wall, press away, and attack to dash like a bullet!
+I hear you but…
+
+I don't even know what that is!
+Yeah. But as long as we stick together…
+not used
+Err... Uhh... 
+And it's ladies night!
+Ok, you're #Ret-2-Go#!
+
+
+
+
+What do I owe ya?
+Warp to #LILAC FIELDS#?
+
+Repairs split ends for faster whipping
+A strong cup o' joe's the only thing that separates us from them.
+What do you know about that?
+
+
+That way I can %BURN AWAY% anything in my path!
+Ever since I ran Risky Boots out of town, every monster in Sequin Land wants a battle.
+But don't worry! So now that you're my gal...
+Yes, where to?
+I sense a restless energy deep inside you.
+The power to swim in deep waters!
+So don't ask me to warp you to some other pedestal. Why not give it a shot? I pinkie promise you can always warp right back again!
+Total disaster.
+And put your backs into it!
+If you're thinking about stopping by his place, better be on your toes.
+My! No need to be hasty! I'm sure we'll be seeing plenty of each other down the line! Ta ta! 
+
+Kablooey!
+What am I supposed to do, sculpt my way in?
+...and grasping the white crystal firmly in hand, I ducked for several seconds at what appeared to be a common cliff face until blah blah blah...
+You found a broken %COFFEE MACHINE%!
+Thanks! Anything else?
+
+Don't run off again, Wobble Bell!
+Ok.
+
+That's probably not my pup.
+…
+And be sure to hit a #SAVE ROOM#, first stop on the left.
+Not anymore.
+
+There ain't no way you're breakin' in there without our help.
+It's only temporary! 
+Welcome Miss! I'm very sorry, but today's orders are all backed up!
+Choose the File that should be copied.
+
+Can you locate Risky Boots with that?
+
+I'd save the world with you, but I'm on break.
+Can I really trust these guys?
+I sense a restless energy deep inside you.
+You are a hottie boom-ba-lottie!
+
+
+Hmm…There's something different about this door.
+
+
+All I need now is a %BOLT OF ENERGY%!
+The #WARP PEDASTALS# on the far East and far West ends of the ocean are connected. It's a great way to travel.
+Warp to #MERMAID CLIFFS#?
+Once captured, the genie must grant %EVERY WISH% her master desires, no matter how evil! 
+Candy! 
+
+
+
+...
+Wasn't sure you'd keep your end of the deal.
+But how could it work on me?
+Phooey with half genies!
+Sometimes I bathe in my own sweat. Don't tell anyone.
+May fortune follow you in your travels.
+Where do I start?
+
+
+To change back, press the #X BUTTON# again!
+Maybe you should have just handed over those %SEALS% in the beginning and saved your friends from such grief!
+Warp to #TANGLE FOREST#?
+Just flash 'em your %PASSPORT%.
+...and with my emptied bowels replacing the treasure, I was able to outwit the pressure trap and make my escape! 
+Even if the %DARK POWER% was somehow restored, few remember how to use it.
+
+
+Then let the festival begin!
+#CROWD:# Show us! Yaaaaay!
+I thought the #AMMO BARON# only kept valuable treasures up there!
+
+
+Sample text
+Retracing your steps is a great way to find rare treasures.
+
+I'm famous for my Magic Jam! It spreads like a dream and tastes like a blot of heaven! Too bad monsters hijacked my latest batch.
+We've run out of visitor badges. This is bad. 
+If you find it, it's yours.
+Sample text
+
+I always pre-register!
+Swag!
+Man that hit the spot!
+
+
+#CROWD:# Ooooooh... MURMUR... 
+You'll both beg for mercy in the end!
+Thanks everyone. But still… I feel farther from my mother, from my true home than ever before. 
+
+Uhh.....
+The town even smells worse!
+...
+Nice! You found a %COFFEE MACHINE%!
+May fortune follow you in your travels.
+The lunch courier?
+Put 'er there, soldier!
+Who are you, Ka-Pow?
+She will never be able to restore the %MAGIC LAMP% now!
+But if you have what it takes to destroy your uncle,
+
+
+Copy to which location?
+Sample text
+Please, can I have my precious %PUP% back?
+So long as you brought %TASTY MEAL%!
+The pirate lady was threatening me and my babies if I didn't hand over my Magic Seal.
+Get going!
+They mostly gather old magical trinkets and such.
+NO!!
+I promised your mother never to speak of it.
+Looks like a broken Coffee Machine. Who can fix it?
+
+It's incredible! It's edible! It's a jar of Magic Jam!
+She was spotted in Scuttle Town today.
+Ok sister, I getcha.
+So come back anytime for a rematch, and I'll set you up with some real prizes you can use. 
+Let's see what'cha found up there!
+You found a %HEART HOLDER%! You can now take more damage than before!
+
+Enjoy your prizes, and come back soon!
+I started dancing from a young age and never stopped. Now, it's all I know.
+But there's a back door to her hideout that might just give you an advantage.
+Sample text
+So, now I just wander aimlessly on its roof!
+Risky thinks one of them has a %MAGIC SEAL%! 
+I wonder if the change of ownership of the town will affect my job.
+I guess you've got no choice but to work with this squid guy! Better talk to him.
+Till then...
+
+
+So. Did you take good care of him?
+
+#ABNER CADAVER#. The oldest.
+Never!
+
+Every time I see a monster, I kill it! Usually in the most brutal way I can think of. It's the best way.
+
+That means he's over by the Mayor's private retreat?
+Well this is a fine how do you do!
+Have you ever heard of a %MAGIC SEAL%?
+Also, a lot of folks die trying, so I hope you %SAVED% first.
+I love skinny dipping in the far end of #POLYP BAY#. There's an undersea cave where you can hide if any boys show up.
+You might have to trust this guy.
+What he DOES need is that rundown rat's hole #SCUTTLE TOWN#!
+Ho ho ho!
+You can find it underneath that #BOULDER# out front. 
+I don't know what B-Rank means, but here's 75 gems!
+If I've lost her, I'll never live it down!
+And better left forgotten.
+The %MEGA PUFF% magic can obliterate almost anything. You should try it!
+Try visiting your pal #ROTTYTOPS#. You can find her %ZOMBIE WAGON% by heading #EAST# from the town gate.  It's a straight shot right through the field and forest.
+Come back any time!
+East?
+not used
+We are now a military town? If they start raising us kids to be deadly assassins, I'm going to use my power to combat the evil that has taken a stranglehold on the town.
+#CROWD:# Yaaaay! Do it! Clap clap clap!
+We're all family now!
+
+But your uncle.
+
+Where ya going?
+I'm #HUMAN#!
+They divided its power into %THREE MAGIC SEALS%, and hid them away forever. 
+
+
+And once you do, snap some close-ups.
+
+To change back, press the #X BUTTON# again!
+Lying down on the job while that pirate runs pell-mell all over my town?
+
+
+Somethin' worth somethin'.
+When I moved to this town, I owned a monkey, but a couple weeks after arriving, he was gone.
+
+I don't know what that means, but here's 200 gems!
+You've got %COFFEE BEANS% and a %COFFEE MACHINE%!?
+It ain't clay. 
+With that thing you can fire bubbles in %MERMAID FORM%.
+Sample text
+If Risky's hideout is under water, my birds can't do squat for you.
+Ho ho ho!
+
+You beat Mighty Flip Champs S-RANK?!
+
+
+and some fresh %COFFEE BEANS%.
+
+
+
+We'll celebrate by trying out my latest recipe!
+
+Sample text
+Why would you come here?
+not used
+
+Save Uncle Mimic before it's too late!
+Persistent damage with maximum range
+And I intend to carry that secret to the grave!
+You're not going to like this.
+Warp to #BARON DESERT#?
+
+Fu fu fu!
+What? Why not?
+Ahhhhh!
+Hmm. Either way she knows I'm coming. What do you guys think?
+
+The #RELIC HUNTER EXPO# is today?
+Maybe you should talk to that little #CHEF# girl who lives out in the forest.
+Find the #AMMO BARON# and give him this %DEED%.
+
+I left it sunning in the bay!
+I enjoy standing. That, and looking.
+You managed to find some %COFFEE BEANS%? Nicely done!
+
+
+
+1
+
+
+
+
+
+1
+
+1
+
+1
+
+
+
+1
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+1
+
+
+
+1
+
+
+1
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+1
+
+
+1
+
+1
+1
+
+
+0
+0
+1
+1
+
+
+
+1
+
+1
+1
+1
+
+
+1
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+1
+
+1
+
+
+1
+
+
+1
+1
+
+1
+0
+
+1
+1
+1
+
+1
+
+0
+
+
+
+1
+
+1
+0
+
+
+
+
+
+0
+
+1
+
+
+
+1
+1
+
+
+
+
+1
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+1
+
+
+1
+
+
+0
+
+
+
+
+1
+
+
+1
+0
+1
+
+
+
+
+0
+1
+
+
+
+
+
+
+
+1
+1
+1
+
+
+
+
+
+
+1
+1
+
+1
+
+1
+
+
+
+1
+1
+1
+
+1
+
+
+0
+
+
+1
+
+
+
+
+1
+
+
+
+
+
+1
+1
+
+1
+
+
+
+1
+
+
+
+
+
+1
+1
+
+
+1
+
+1
+0
+1
+1
+
+1
+1
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+1
+
+
+
+1
+1
+
+
+1
+1
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+0
+
+
+1
+
+
+
+
+
+
+
+1
+
+0
+1
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+0
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+1
+
+
+1
+1
+0
+
+
+
+
+
+1
+1
+1
+1
+1
+1
+1
+0
+1
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+1
+
+1
+1
+
+1
+
+1
+1
+1
+
+
+1
+
+
+
+1
+1
+
+
+
+
+
+
+
+
+
+0
+
+1
+
+
+
+
+0
+
+1
+
+1
+
+
+1
+
+
+
+
+
+
+
+
+
+
+1
+1
+
+1
+
+
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+1
+
+
+
+1
+
+1
+
+
+
+
+
+1
+
+
+
+
+
+
+1
+
+1
+
+1
+
+
+
+
+
+
+
+1
+
+
+
+0
+0
+
+
+
+
+1
+
+
+
+
+
+
+
+
+1
+
+
+1
+
+0
+
+
+
+1
+
+
+0
+1
+1
+
+
+
+
+0
+
+
+
+1
+
+
+
+
+
+
+
+
+1
+
+
+1
+1
+
+
+
+
+1
+1
+
+
+1
+
+1
+
+1
+1
+
+
+
+1
+
+
+
+1
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+1
+
+0
+0
+
+
+1
+
+1
+1
+1
+
+
+
+
+
+
+1
+1
+
+
+1
+
+
+1
+1
+
+1
+
+0
+1
+0
+1
+
+1
+
+
+
+1
+0
+
+
+
+
+
+
+
+1
+
+
+1
+
+
+
+
+
+
+
+
+1
+1
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+0
+1
+
+
+
+
+1
+
+
+
+0
+
+
+
+
+
+
+
+
+0
+
+
+
+
+1
+
+
+
+
+
+
+1
+1
+
+1
+
+1
+
+
+
+
+
+1
+1
+
+
+
+1
+1
+1
+1
+
+
+
+
+1
+
+
+
+
+1
+0
+
+
+
+
+
+
+
+1
+
+1
+
+1
+
+1
+1
+
+
+
+
+
+
+0
+
+
+
+
+
+1
+1
+0
+
+1
+
+
+
+
+
+
+0
+0
+0
+
+
+1
+
+
+
+
+0
+
+
+
+
+
+
+1
+
+
+
+1
+
+
+
+
+
+1
+0
+1
+
+
+
+1
+
+
+
+
+
+
+0
+
+
+
+
+
+1
+1
+
+
+
+
+
+1
+
+
+
+
+1
+
+
+
+
+1
+
+1
+
+
+1
+1
+
+1
+1
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+0
+0
+
+
+1
+
+
+
+
+
+
+1
+
+1
+0
+
+
+1
+
+
+1
+1
+
+1
+
+1
+
+1
+
+
+1
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+1
+
+1
+1
+
+1
+
+
+
+
+1
+1
+
+1
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+1
+
+
+
+
+
+1
+
+1
+1
+
+
+
+1
+
+
+
+1
+
+
+
+0
+1
+
+1
+
+
+1
+
+
+
+
+
+
+
+1
+1
+
+
+
+
+
+1
+
+
+
+0
+
+
+
+1
+
+
+
+
+
+
+1
+1
+
+
+
+
+
+
+0
+
+1
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+1
+
+
+0
+
+1
+
+1
+
+
+1
+
+1
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+1
+
+1
+1
+
+
+
+
+
+
+
+
+
+
+1
+1
+0
+
+
+1
+
+
+
+1
+
+
+
+
+
+
+1
+1
+1
+1
+
+0
+1
+
+
+
+1
+1
+
+
+
+
+0
+
+
+
+
+
+
+1
+
+
+0
+
+
+1
+
+
+1
+
+
+
+
+1
+
+
+
+
+1
+
+1
+
+
+0
+
+1
+1
+
+1
+1
+
+
+0
+
+
+1
+1
+1
+
+
+
+
+
+0
+
+1
+1
+
+
+0
+
+
+
+1
+1
+
+
+
+1
+1
+0
+
+1
+
+
+
+0
+1
+
+
+
+1
+1
+
+
+
+1
+
+
+
+
+0
+
+
+
+
+
+1
+1
+
+0
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+0
+1
+
+
+
+0
+
+
+
+
+
+1
+1
+
+1
+
+
+1
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+1
+
+
+
+1
+1
+
+1
+
+
+1
+1
+
+
+1
+
+
+
+
+0
+
+
+1
+
+1
+1
+
+1
+1
+1
+
+1
+0
+
+
+1
+
+
+
+
+0
+1
+
+
+
+
+1
+
+
+
+1
+
+
+

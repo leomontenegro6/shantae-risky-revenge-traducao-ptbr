@@ -1,0 +1,33 @@
+This a list of some of the texture formats used in MT Framework v2.0+ games (RE6, Revelations 1, Revelations 2, DMC4 SE, etc). When converting from DDS back to TEX, it might be beneficial to change the texture format (you can do this by changing the textype value in the generated text file for a texture).
+
+RGBA: 
+14
+39
+40
+
+DXT1:
+19
+20
+
+DXT5:
+23
+24
+35
+37
+47
+
+There's 2 formats which are different depending on if you're converting texture files from DMC4: SE or another MT Framework game
+
+--DMC4SE--
+3Dc:
+31
+
+ATI1:
+25
+
+--Other MT Framework games--
+DXT5:
+31
+
+DXT1:
+25

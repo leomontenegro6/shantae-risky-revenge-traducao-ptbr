@@ -1,0 +1,12 @@
+1. Tenha o CIA do jogo de DSi instalado;
+2. Abra o FBI;
+3. Vá em TWL NAND¹
+4. Vá em title -> 00030004 -> 4B533345³ -> data
+5. Selecione o arquivo "public.sav", aperte o botão A, depois vá em "Copy"
+6. Cole-o em uma pasta qualquer, dentro do cartão SD.
+7. Extraia o save do cartão SD, seja via leitor de cartão ou via FTP
+
+¹ Aparecerá um aviso de perigo. Pode ignorá-lo, pois iremos apenas realizar operações de leitura.
+² 4B533345 é o Title ID do jogo "Shantae - Risky's Revenge". Para outros jogos, você precisará descobrir seu Title ID de antemão.
+
+

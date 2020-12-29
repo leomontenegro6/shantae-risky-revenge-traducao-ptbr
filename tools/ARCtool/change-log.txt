@@ -1,0 +1,203 @@
+v0-9-428 (2019-07-12)
+- Added "-silent" command line argument which stops creation of log.txt and all printing to console.
+- Added support for DDO.
+
+v0-9-427 (2018-05-10)
+- XFS conversion: Added support for XFS files from PS4 version of RE5 by using "-re5ps4" command line argument. This conversion only works one way (XFS->XML).
+
+v0-9-426 (2017-12-08)
+- XFS conversion: Added support for FLOAT3X4 variable type.
+
+v0-9-425 (2016-12-20)
+- Fixed a bug preventing some text output to be visible when extracting ARCs.
+
+v0-9-424 (2016-12-05)
+- XFS conversion: Changed Float3 variable type to read/write 2 floats instead of 3.
+
+v0-9-423 (2016-04-17)
+- XFS conversion: Fixed precision with float conversion (some floats could have become slightly different when being converted to and from text form).
+
+v0-9-422
+- Fixed a bug when repacking archives with extremely long file paths.
+
+v0-9-421 (2016-02-10)
+- XFS conversion: Added support for var type matrix33.
+
+v0-9-42 (2016-02-06)
+- XFS conversion: Fixed handling of arrays with size 1, and removed debug comments when converting XFS to XML.
+- LOT conversion: Fixed a bug with type 19, added support for more LOT types, and added names for more enemy types when converting to text.
+- Updated single-file mode (note that you can't properly convert XFS and LOT files in that mode yet).
+- Fixed a bug with extension handling (caused a warning to sometimes appear when repacking arcs without using filelist from a text file).
+- Fixed a bug with GMD conversion.
+
+v0-9-41 (2016-01-22)
+- Fixed a bug with XFS conversion where variables names with spaces would not get read correctly. (resulted in pawns becoming unresponsive when converting AI\PrioThink\cmc.prt with Dragon's Dogma)
+- Added partial extension list for RE0 HD.
+
+v0-9-40 (2016-01-15)
+- Added support for more texture types (thanks Rick, http://gib.me/)
+- Fixed bugs related to GMD conversion.
+- Added XFS<->XML convertor (use -xfs). This is only for little endian right now, I'll add big endian suport later.
+- Added LOT<->TXT convertor (use -lot). LOT files are used in Dragon's Dogma. As with XFS conversion, this is only for little endian files so far.
+- Some misc changes and fixes.
+
+v0-9-39 (2015-08-18)
+- Fixed support for a couple of texture types.
+- Added support for texture type 7.
+
+v0-9-38 (2015-06-28)
+- Added DMC4 SE mode.
+- Added support for 0x19 and 0x1F TEX subformats (both are extremely common in DMC4 SE).
+- TEX->DDS conversion for MT Framework v2.0+ TEX files will now list DDS format in the generated text file for easy reference.
+
+A little bit of information on the two new TEX subformats supported:
+- 0x19 is a ATI1 DDS file used for MM textures. The photoshop DDS plugin does not support this format at all, so you'll need to use another DDS convertor to read these textures.
+- 0x1F is a 3Dc DDS file used for NM textures. I think photoshop DDS plugin supports it just fine.
+
+v0-9-37 (2015-04-02)
+- RE5 DDS->TEX conversion now updates resolution using resolution of DDS texture.
+- Added msg extension for DMC4 (shadowlonely)
+
+v0-9-36 (2015-02-16)
+- Added extensions for Resident Evil HD found by codeman.
+- Fixed handling of directories with "." as part of the path name.
+
+v0-9-35 (2015-02-01)
+- Added extensions for Resident Evil HD found by codeman.
+- Added basic support for 0x2B MT Framework v2.0 textures. They look funky so support is probably not working correctly.
+
+v0-9-34 (2015-01-31)
+- Added extension list for Resident Evil HD.
+- If no mode is set (extract, repack, etc), arctool will automatically switch modes based on extension in filename argument.
+- Filename argument can now be before or between option arguments.
+- There's now fewer batch files. You're welcome.
+- Spiffy new icon added to executable.
+
+v0-9-33 (2014-11-29)
+- Fixed xbox support broken in previous version.
+
+v0-9-32 (2014-11-29)
+- Fixed phs extension for DMC4.
+- Added support for extracting REmaster PS3 arc files. (not actually working)
+
+v0-9-31 (2014-11-05)
+- Fixed a major bug with texture conversion of PC RE5 and DMC4 textures.
+
+v0-9-30 (2014-10-28)
+- Added "alwayscomp" to DMC4 repack batch file. This fixes repacking of some arc files.
+- Fixed a major bug when repacking files without using a file list from a text file while there were converted textures among the archive files. This could have affected DMC4 and RE5 repacking.
+- Added support for extracting Monster Hunter 4G (3DS) arc files. Use pc-rev-extract.bat for highest compatibility with extensions.
+
+v0-9-29 (2014-10-28)
+- Added support for extracting Mercenaries 3D (3DS) arc files. Use pc-rev-extract.bat for highest compatibility with extensions.
+- Added these extensions for DMC4: col and phs
+
+v0-9-28 (2014-09-03)
+- Added support for extracting 3DS Monster Hunter 4 arc files. Might also support arc files from other MT Framework mobile games.
+
+v0-9-27 (2014-08-27)
+- Added support for PC DMC4 arc files. Texture conversion also works.
+
+v0-9-26 (2014-02-20):
+- Fixed the DD ps3 repack batch file.
+- Added support for PS3 tex (texture) files.
+
+v0-9-25 (2014-02-15):
+- Fixed the ps3 repack batch files.
+- Fixed minor bug with "-tostage" function.
+
+v0-9-24 (2013-10-13):
+-Added these extensions for RE6: shd, atk, hgm, sgt and mse
+
+v0-9-23 (2013-06-06):
+-Added these extensions for Revelations: SBKR, GCD, CWC, PFP, ATP and SWM (thanks to codeman).
+
+v0-9-22 (2013-06-03):
+-Added these extensions for Revelations: RTX, DIM, E2D, ARCS, PPL and EPL (thanks to codeman).
+-Added support for CTX textures with xbox tex files (not tested).
+
+v0-9-21 (2013-05-24):
+-Fixed ".srq" extension for Revelations, it's supposed to be ".srqr". These files are quite common in character arcs so this might break extracted arcs which people try to repack. Just re-extract the arc and the extension will be properly updated.
+-Added ".xsew" extension for Revelations.
+-Added support for 0x2A TEX files (not sure if works properly, channels looks like they're supposed to be swapped).
+
+v0-9-20 (2013-05-15):
+-Added a few more extensions for Revelations.
+-Fixed the "-l" command.
+-Made "-alwayscomp" affect extraction as well, and added this to the rev-extract bat. A few files weren't properly extracted because the tool thought it was uncompressed.
+-Added support for 0x27 TEX files (not fully tested).
+
+v0-9-19 (2013-05-14):
+-Improved automatic stage renaming for RE6.
+-Added basic support for RE: Revelations.
+
+v0-9-18 (2013-05-08):
+-Added SST extension for RE6.
+-Fixed repacking of PS3 arc files. Also fixed a related minor bug regarding arc header size.
+-Added support for automatically renaming stages to another num using the "-tostage #" command line argument.
+
+v0-9-17 (2013-02-25):
+-Fixed a major bug when converting dds files with zero mipmaps into tex.
+
+v0-9-16 (2013-02-25):
+-Added command line "-noextractdir" to not use the archive filename as part of the filepath used for extraction.
+
+v0-9-15 (2013-02-24):
+-Added support for converting DDS to RE5 PC TEX.
+-Added a mode which can convert TEX files back and forth without having to extract or repack an arc. It's used by not having "-c", "-l" or "-x" as command line argument, and having a tga, dds or tex file as the final argument.
+
+v0-9-14 (2013-02-23):
+-Tool supports RE6 PC arc files.
+-Added support for converting PC TEX files to DDS.
+-Added support for converting DDS files to RE6 PC TEX files. I'll add support for RE5 TEX files in another update.
+-Added command line "-renameconvtex" for automatically giving any tga/dds files custom names when converted from tex. Makes it easier to manage which files are converted back to tex when repacking an arc.
+
+v0-9-13 (2013-01-15):
+-Fixed xbox-re5-repack batch file. It needed "-alwayscomp".
+-Added support for PS3 ARC files (not fully tested).
+-Renamed batch files.
+
+v0-9-12 (2012-10-18):
+-Support for converting RE6 GMD files to text added. There's no support for converting text to RE6 GMD (yet).
+-Fixed crash bug when converting a few specific Dragon's Dogma GMD files.
+
+v0-9-11 (2012-09-23):
+-Experimental support for more xbox tex formats.
+
+v0-9-10 (2012-09-22):
+-A few minor fixes.
+-gmd<->txt conversion should work fine for Dragon's Dogma. Other gmd types aren't supported.
+-Added support for extracting DMC4 arc files.
+-For the sake of simplicity, the various game arguments (-dd, -re6, etc) now also define basic configurations for those games. For instance the tex type, and if they require something specific to work (like DD requires file order from text file and RE6 requires all files be compressed).
+-Added an option "-allext" for loading in every extension for every game. Might work well for some games, but I don't know if there's any conflicts when using this.
+-Added support for RGBA textures for RE5/DMC4.
+-Supports extraction/recreation of RE5 PC arc files. (not tested thoroughly)
+-Compression is now twice as fast (as a side effect, individual files larger than 100mb won't work, but that shouldn't be a problem with any MT framework game)
+
+v0-9-8 (2012-07-26):
+-A few minor bug fixes.
+-Experimental gmd->txt conversion support added.
+
+v0-9-7 (2012-07-24):
+-It's now possible to convert TGA files to TEX (does not work with all TEX files, and the format, mipcount and texture resolution must be the same).
+-Program now creates a log.txt with info about the previous extract/repack.
+
+v0-9-6 (2012-07-21):
+-Fixed a crash when trying to convert an unsupported TEX type in Dragon's Dogma.
+
+v0-9-5 (2012-07-19):
+-Added feature for automatically converting TEX to TGA. Does not support all TGA files yet. Use "-tex" for turning on the feature, and "-texRE5" or "-texRE6" for choosing texture type.
+
+v0-9-4 (2012-07-18):
+-Fixed a big mistake with the Dragon's Dogma extension list. One of them had the wrong hash.
+-Added an incomplete list of extensions for RE6. Access by using -RE6 argument.
+
+v0-9-3 (2012-07-04):
+-Fixed filenames which were very close to the filename limit (64 bytes is the length limit for a directory+filename (does not include extension))
+-"-l" command works for outputting info about an archive to a text file.
+
+v0-9-2 (2012-07-03):
+-Added "-alwayscomp" option which forces all files to be compressed during repacking.
+
+v0-9-1 (2012-07-03):
+-First public release.

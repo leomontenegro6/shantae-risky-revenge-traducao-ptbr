@@ -1,0 +1,27 @@
+Frasco Encantado -> Frasco Mágico (OK)
+
+Fogo Cruzado -> Bola de Fogo Tripla (OK)
+
+Ímã Mágico -> Atração (OK)
+
+Recarregador Mágico -> Recuperação de Magia (OK)
+
+BAÍA PÓLIPO -> gráfico tem 2 píxels pra corrigir (OK)
+
+"Current Record: x left on the timer!" -> texto pendente traduzir, fora dos loctext. (OK)
+
+ENCOSTAS DAS SEREIAS -> bug menor no gráfico, na primeira letra 'S' de Sereias. tentar corrigir (DEIXAR PRA DEPOIS)
+
+Super Mega Sopro -> Sopro Explosivo (OK)
+
+DANÇA DE SEREIA -> Ver possível bug na descrição do item-chave, onde ele pode estar mostrando a descrição de outro item ao invés deste (ALARME FALSO)
+
+CAVERNA SUBMERSA -> gráfico bugadaço. corrigir no tile molester e usar o save extraído do 3DS pra testar no no$gba (OK)
+
+Time: x SPECIAL ITENS xx/34 (OK)
+
+Gráfico de Classificação Etária -> Cogitar trocar ele pelo logo da TriboGamer (DEIXAR PRA DEPOIS)
+
+Gráfico de Licensed By Nintendo -> Traduzir ele pra "Licenciado pela Nintendo", ou trocar ele pelo logo do F.U.R.T. (DEIXAR PRA DEPOIS)
+
+Gráfico de WayForward 20th Anniversary -> Traduzir o "20th Anniversary" pra "Aniversário de 20 Anos" (DEIXAR PRA DEPOIS)

@@ -1,0 +1,96 @@
+)@Colaboradores<lf>
+)@Testes de Controle de Qualidade<lf>
+)@Ilustrador<lf>
+!%Chris Anderson<lf>Robbie George<lf>Georgeina Schaller<lf>Timothy Vinton<lf><lf><lf>
+)@Diretor/Produtor<lf>
+)@Designer de Fases<lf>
+!%Gustav Kilman<lf>Andrew Bado<lf><lf><lf><lf>
+)@Animadores Principais<lf>
+)@Animadores<lf>
+)@Diretor<lf>
+)@Programação Adicional<lf>
+)&Agradecimentos Especiais<lf><lf><lf>
+)& 
+!%Austin Ivansmith<lf>James Montagna<lf>Jeff Pomegranate<lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf>
+!%Henk Nieborg<lf><lf><lf>
+!%Jake Kaufman<lf><lf><lf>
+)@Conselheiro<lf>
+)@Artistas Técnicos<lf>
+!%Chris Watson<lf><lf><lf>
+!%Danny McGillick<lf>Randy van der Vlag<lf><lf><lf>
+!%James Montagna<lf><lf><lf><lf>
+)& 
+)@Gerente de Controle de Qualidade<lf>
+)@Produtor Executivo<lf>
+!%Adam Kasper<lf>Adam Lutz<lf>George Mathews<lf>Larry Holdaway<lf>Robert Koshak<lf><lf><lf>
+!%Marc Gomez<lf>Rob Buchanan<lf><lf><lf>
+!%Michael Flores<lf><lf><lf>
+)@Chefe Tirânico<lf>
+)@Ilustradores<lf>
+!%James Maxwell<lf><lf><lf>
+!%Jordan Mayer<lf><lf><lf>
+)@Animador<lf>
+)@Assistentes de Arte<lf>
+!&Dan Adleman<lf>Noriko Fritschle<lf>Shu Fujii<lf>Brickroad<lf>Chris Hoffman<lf>Nintendo Power<lf>Go Nintendo<lf>Nintendo Life<lf>Craig Harris<lf>IGN<lf>Carla Way<lf>Adriana Watson<lf>Ashley Moller<lf>Nestor & Nieves Religioso<lf>Sasha & Haley<lf>Ben Dorschner<lf>Stephan Schutze Sound Library<lf>Jimmy Huey<lf>Michael Stragey<lf>Brin e Luke<lf><lf><lf><lf><lf>e<lf><lf><lf><lf><lf> Toda a Equipe da WayForward <lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf>  
+!%James Chan<lf><lf><lf><lf>
+)@Motor e Ferramentas<lf>
+)@Programador<lf>
+!%Michael Clasgens<lf><lf><lf>
+!%Aric Dorschner<lf>Ian Small<lf><lf><lf>
+)@Programadores Adicionais<lf>
+!%Shannon Hatakeda<lf>Andy Crim<lf><lf><lf>
+!%Paul Castillo<lf>Chris Engle<lf>Alex Ahad<lf>Robert Case<lf>Mariel Cartwright<lf>Jason Robinson<lf><lf><lf>
+!%Adam Rademacher<lf>Nate Trost<lf><lf><lf>
+!%Kristen George<lf><lf><lf><lf>
+)@Diretor de Controle de Qualidade<lf>
+!%Meagan Glaser<lf><lf><lf><lf>
+!&Matt e Erin Bozon<lf><lf><lf><lf>
+)@Animações Adicionais<lf>
+)& 
+!%John Beck<lf><lf><lf>
+)@Programador Principal<lf>
+!%Sven Ruthner<lf>Jeremy Dower<lf><lf><lf>
+Shantae: Risky's Revenge<lf><lf><lf><lf><lf><lf>
+)@Programadores<lf>
+!%Jeremy Pryer<lf><lf><lf>
+)@Testes de Controle de Qualidade<lf>
+)@Motor e Ferramentas<lf>
+)&Shantae criada por <lf>
+!%Christopher Shanley<lf><lf><lf>
+!%Matthew Religioso<lf><lf><lf>
+!%Chris Anderson<lf>Josette Dziuk<lf>Nick Malouf<lf>Ryan Wright<lf>Steven Kitzes<lf>Kyle Sellers<lf>Joe Carlo<lf><lf><lf><lf>
+!%Rafael Ventura<lf><lf><lf>
+)@Garantia de Qualidade Adicional<lf>
+!%Brandis Hulett<lf><lf><lf>
+)@Arte de Cenários Adicional<lf>
+)@Colaboradores<lf>
+)& 
+)& <lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf> OBRIGADO POR JOGAR!!!<lf><lf><lf><lf><lf><lf><lf><lf>Traduzido por Tribogamer Brasil<lf><lf><lf><lf>Equipe<lf><lf><lf><lf>Administrador do projeto e tradutor<lf><lf>Júlio César<lf><lf><lf><lf>Edição de Fontes<lf><lf>RevolutionJTG e Danramone<lf><lf><lf><lf>Dicionário de Termos<lf><lf>Mjarcos<lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf><lf>
+!%Nick Wozniak<lf><lf><lf>
+)@Relações Públicas<lf>
+)@Gerente de Comunidade<lf>
+)@Modeladores de Pixel<lf>
+!%Michael Flores<lf><lf><lf>
+)@Diretor Técnico<lf>
+!%Chris Kerlegon<lf>Joakim Sandberg<lf>Paul Robertson<lf>Eunhi Oh<lf><lf><lf><lf>
+!%Robb Alvey<lf>Mark Bozon<lf>Ed Glaser<lf>Kristina Kaufman<lf>Chris Losorelli<lf>Adam Tierney<lf>Sean Velasco<lf>Matthew Zitterman<lf><lf><lf>
+Shantae: Risky's Revenge - Director's Cut<lf><lf><lf><lf><lf><lf>
+!%Jessie Seely<lf><lf><lf>
+!%Aaron Thornton<lf><lf><lf>
+)& 
+!%Matt Bozon<lf><lf><lf>
+!%Jonathan Rucker<lf>Stephen Foot<lf><lf><lf>
+)@Assistentes de Produção<lf>
+)@Cara do Audio<lf>
+)@Diretor Assistente<lf>
+!%Shane Calimlim<lf><lf><lf>
+)@Artista de Cenários Principal<lf>
+!%Matt Bozon<lf><lf><lf>
+)@Produtor<lf>
+)@Diretor de Engajamento do Consumidor<lf>
+)& 
+)@Gerente de Controle de Qualidade<lf>
+!%Joe Carlo<lf>Josette Dziuk<lf>Steven Kitzes<lf>Nick Malouf<lf>Kyle Sellers<lf>Ryan Wright<lf><lf><lf>
+)&Desenvolvido por WayForward <lf><lf><lf>
+!%Voldi Way<lf><lf><lf>
+)@Vozes<lf>
